@@ -68,7 +68,7 @@
       function init() {
           view = new webots.View(document.getElementById("view3d"));
 
-          $.getJSON("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.reflog.json", function(data) {
+          $.getJSON("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.reflog.json", function(data) {
             var html = "";
             for (var i = 0; i < data.length; i++) {
               var item = data[i];
@@ -135,8 +135,8 @@
             document.getElementById('time').innerHTML = minutes + ":" + seconds;
           }, 100);
 
-          view.open("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.x3d");
-          view.setAnimation("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.json", "play", false);
+          view.open("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.x3d");
+          view.setAnimation("qae_3_07_-_1_-_i-bots_5_vs_i-bots_7-20210530T203044.json", "play", false);
       }
       window.addEventListener("load", init, false);
       if (location.protocol == "file:" && (!!window.chrome && !!window.chrome.webstore))
