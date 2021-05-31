@@ -27,10 +27,10 @@
 
 ## Round 2
 
-### Torus vs. TFA 406
+### Torus vs. TFA 406
 - **Final result:** (1 : 44)
-- [First half](qualifications-outputs/qam/qam_2_01-1/qam_2_01_-_1_-_TFA_406_vs_Torus-20210530T164409-new.html) (0 : 23)
-- [Second half](qualifications-outputs/qam/qam_2_01-2/qam_2_01_-_2_-_Torus_vs_TFA_406-20210530T164825-new.html) (1 : 21)
+- [First half](qualifications-outputs/qam/qam_2_01-1/qam_2_01_-_1_-_TFA_406_vs_Torus-20210530T164409-new.html) (0 : 23)
+- [Second half](qualifications-outputs/qam/qam_2_01-2/qam_2_01_-_2_-_Torus_vs_TFA_406-20210530T164825-new.html) (1 : 21)
 
 
 ### Aperture Robotics Soccer vs. Team Orion
@@ -58,10 +58,10 @@
 - [Second half](qualifications-outputs/qam/qam_3_01-2/qam_3_01_-_2_-_Team_Orion_vs_TFA_406-20210530T173121-new.html) (3 : 15)
 
 
-### Torus vs. RBL UTCAM
+### Torus vs. RBL UTCAM
 - **Final result:** (6 : 24)
-- [First half](qualifications-outputs/qam/qam_3_02-1/qam_3_02_-_1_-_RBL_UTCAM_vs_Torus-20210530T173557-new.html) (2 : 8)
-- [Second half](qualifications-outputs/qam/qam_3_02-2/qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012-new.html) (4 : 16)
+- [First half](qualifications-outputs/qam/qam_3_02-1/qam_3_02_-_1_-_RBL_UTCAM_vs_Torus-20210530T173557-new.html) (2 : 8)
+- [Second half](qualifications-outputs/qam/qam_3_02-2/qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012-new.html) (4 : 16)
 
 
 ### SESI Robotics School Makers vs. Team Alpha
@@ -95,10 +95,10 @@
 - [Second half](qualifications-outputs/qam/qam_4_03-2/qam_4_03_-_2_-_Team_Alpha_vs_Team_Orion-20210530T182416-new.html) (1 : 4)
 
 
-### Torus vs. Hexagonal
+### Torus vs. Hexagonal
 - **Final result:** (0 : 0)
-- [First half](qualifications-outputs/qam/qam_4_04-1/qam_4_04_-_1_-_Hexagonal_vs_Torus-20210530T182835-new.html) (0 : 0)
-- [Second half](qualifications-outputs/qam/qam_4_04-2/qam_4_04_-_2_-_Torus_vs_Hexagonal-20210530T183211-new.html) (0 : 0)
+- [First half](qualifications-outputs/qam/qam_4_04-1/qam_4_04_-_1_-_Hexagonal_vs_Torus-20210530T182835-new.html) (0 : 0)
+- [Second half](qualifications-outputs/qam/qam_4_04-2/qam_4_04_-_2_-_Torus_vs_Hexagonal-20210530T183211-new.html) (0 : 0)
 
 ## Round 5
 
@@ -122,8 +122,8 @@
 
 ### Team Alpha vs. Torus
 - **Final result:** (0 : 0)
-- [First half](qualifications-outputs/qam/qam_5_04-1/qam_5_04_-_1_-_Torus_vs_Team_Alpha-20210530T195913-new.html) (0 : 0)
-- [Second half](qualifications-outputs/qam/qam_5_04-2/qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313-new.html) (0 : 0)
+- [First half](qualifications-outputs/qam/qam_5_04-1/qam_5_04_-_1_-_Torus_vs_Team_Alpha-20210530T195913-new.html) (0 : 0)
+- [Second half](qualifications-outputs/qam/qam_5_04-2/qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313-new.html) (0 : 0)
 
 ## Round 7
 
@@ -139,10 +139,10 @@
 - [Second half](qualifications-outputs/qam/qam_6_02-2/qam_6_02_-_2_-_Hexagonal_vs_RBL_UTCAM-20210530T202334-new.html) (2 : 13)
 
 
-### Torus vs. Team Orion
+### Torus vs. Team Orion
 - **Final result:** (2 : 11)
-- [First half](qualifications-outputs/qam/qam_6_03-1/qam_6_03_-_1_-_Team_Orion_vs_Torus-20210530T202751-new.html) (2 : 3)
-- [Second half](qualifications-outputs/qam/qam_6_03-2/qam_6_03_-_2_-_Torus_vs_Team_Orion-20210530T203209-new.html) (0 : 8)
+- [First half](qualifications-outputs/qam/qam_6_03-1/qam_6_03_-_1_-_Team_Orion_vs_Torus-20210530T202751-new.html) (2 : 3)
+- [Second half](qualifications-outputs/qam/qam_6_03-2/qam_6_03_-_2_-_Torus_vs_Team_Orion-20210530T203209-new.html) (0 : 8)
 
 
 ### Aperture Robotics Soccer vs. SESI Robotics School Makers
