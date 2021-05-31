@@ -1,0 +1,5 @@
+site_name: RCJ SoccerSim Challenge 2021
+theme:
+  name: material
+  palette:
+    primary: green
