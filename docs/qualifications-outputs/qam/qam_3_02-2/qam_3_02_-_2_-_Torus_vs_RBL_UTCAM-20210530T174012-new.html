@@ -68,7 +68,7 @@
       function init() {
           view = new webots.View(document.getElementById("view3d"));
 
-          $.getJSON("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.reflog.json", function(data) {
+          $.getJSON("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.reflog.json", function(data) {
             var html = "";
             for (var i = 0; i < data.length; i++) {
               var item = data[i];
@@ -135,8 +135,8 @@
             document.getElementById('time').innerHTML = minutes + ":" + seconds;
           }, 100);
 
-          view.open("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.x3d");
-          view.setAnimation("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.json", "play", false);
+          view.open("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.x3d");
+          view.setAnimation("qam_3_02_-_2_-_Torus_vs_RBL_UTCAM-20210530T174012.json", "play", false);
       }
       window.addEventListener("load", init, false);
       if (location.protocol == "file:" && (!!window.chrome && !!window.chrome.webstore))

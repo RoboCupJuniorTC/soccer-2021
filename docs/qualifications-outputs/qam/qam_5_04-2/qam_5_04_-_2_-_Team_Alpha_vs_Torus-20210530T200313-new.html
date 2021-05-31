@@ -68,7 +68,7 @@
       function init() {
           view = new webots.View(document.getElementById("view3d"));
 
-          $.getJSON("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.reflog.json", function(data) {
+          $.getJSON("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.reflog.json", function(data) {
             var html = "";
             for (var i = 0; i < data.length; i++) {
               var item = data[i];
@@ -135,8 +135,8 @@
             document.getElementById('time').innerHTML = minutes + ":" + seconds;
           }, 100);
 
-          view.open("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.x3d");
-          view.setAnimation("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.json", "play", false);
+          view.open("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.x3d");
+          view.setAnimation("qam_5_04_-_2_-_Team_Alpha_vs_Torus-20210530T200313.json", "play", false);
       }
       window.addEventListener("load", init, false);
       if (location.protocol == "file:" && (!!window.chrome && !!window.chrome.webstore))
