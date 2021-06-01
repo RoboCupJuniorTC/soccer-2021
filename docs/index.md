@@ -2,5 +2,6 @@
 
 ## Qualification
 
-- [Americas](qualification-americas.md)
 - [Africa + Europe](qualification-africa-europe.md)
+- [Americas](qualification-americas.md)
+- [Asia + Pacific](qualification-asia-pacific.md)
