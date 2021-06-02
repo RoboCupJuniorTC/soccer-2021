@@ -1,5 +1,36 @@
 # Qualification: Asia + Pacific
 
+## Results
+
+|Team                             |Affiliation  |W - D - L|Points|Scored|Diff |Rank|
+|---------------------------------|-------------|---------|------|------|-----|----|
+|TX                               |China        |7 - 0 - 0|21    |80    |39   |1   |
+|RX                               |Hong Kong, China|6 - 0 - 1|18    |84    |70   |2   |
+|FAST AND SMART                   |Iran         |5 - 0 - 2|15    |69    |39   |3   |
+|Golden brains                    |Iran         |1 - 6 - 0|9     |8     |2    |4   |
+|PC#                              |Iran         |0 - 7 - 0|7     |0     |0    |5   |
+|Turbo-Technorobiran              |Iran         |0 - 7 - 0|7     |0     |0    |6   |
+|Barcode_Technorobiran            |Iran         |0 - 7 - 0|7     |0     |0    |6   |
+|King-Kong                        |Taiwan       |0 - 7 - 0|7     |0     |0    |6   |
+|A.T.S.T                          |Iran         |0 - 7 - 0|7     |0     |0    |9   |
+|musou japan                      |Japan        |2 - 1 - 4|7     |34    |-16  |10  |
+|Pooyesh                          |Iran         |0 - 6 - 1|6     |15    |-1   |11  |
+|Hero boys                        |Iran         |0 - 6 - 1|6     |3     |-3   |12  |
+|Apex                             |Taiwan       |0 - 6 - 1|6     |4     |-4   |13  |
+|Radiant                          |Iran         |0 - 6 - 1|6     |10    |-5   |14  |
+|Williamstown High School's       |Australia    |0 - 6 - 1|6     |3     |-8   |15  |
+|Phase moon                       |Iran         |0 - 6 - 1|6     |1     |-9   |16  |
+|GTSmart-Technorobiran            |Iran         |0 - 6 - 1|6     |0     |-9   |17  |
+|F1_Formula                       |Iran         |0 - 6 - 1|6     |4     |-12  |18  |
+|Reset                            |Taiwan       |0 - 6 - 1|6     |2     |-12  |19  |
+|NOVA                             |Iran         |0 - 6 - 1|6     |2     |-13  |20  |
+|Allameh Tabatabaei               |Iran         |0 - 6 - 1|6     |0     |-13  |21  |
+|NJRT                             |Iran         |0 - 6 - 1|6     |1     |-14  |22  |
+|Power-Technorobiran              |Iran         |0 - 6 - 1|6     |0     |-14  |23  |
+|moyasirobo                       |Japan        |0 - 6 - 1|6     |0     |-17  |24  |
+
+Download results in [PDF](pdfs/qap.pdf)
+
 ## Round 1
 
 ### power-technorobiran vs. NOVA

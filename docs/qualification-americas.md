@@ -1,5 +1,21 @@
 # Qualification: Americas
 
+## Results
+
+|Team                             |Affiliation  |W - D - L|Points|Scored|Diff |Rank|
+|---------------------------------|-------------|---------|------|------|-----|----|
+|TFA 406                          |Canada       |7 - 0 - 0|21    |286   |274  |1   |
+|RBL UTCAM                        |Mexico       |6 - 0 - 1|18    |125   |46   |2   |
+|Orion                            |United States|5 - 0 - 2|15    |70    |8    |3   |
+|Torus                            |United States|2 - 2 - 3|8     |29    |-50  |4   |
+|SESI Robotics School Maker       |Brazil       |1 - 4 - 2|7     |13    |-37  |5   |
+|Team Alpha                       |Canada       |1 - 4 - 2|7     |11    |-39  |6   |
+|Helix                            |Canada       |1 - 4 - 2|7     |20    |-55  |7   |
+|Aperture Robotics Soccer         |Brazil       |1 - 3 - 3|6     |26    |-49  |8   |
+|Hexagonal                        |United States|0 - 5 - 2|5     |7     |-28  |9   |
+
+Download results in [PDF](pdfs/qam.pdf)
+
 ## Round 1
 
 ### RBL UTCAM vs. TFA 406

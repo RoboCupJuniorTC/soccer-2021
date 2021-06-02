@@ -1,5 +1,34 @@
 # Qualification: Africa + Europe
 
+## Results
+
+|Team                             |Affiliation  |W - D - L|Points|Scored|Diff |Rank|
+|---------------------------------|-------------|---------|------|------|-----|----|
+|GJH_team                         |Slovakia     |7 - 0 - 0|21    |145   |144  |1   |
+|XLC-Innovation                   |Slovakia     |6 - 0 - 1|18    |60    |44   |2   |
+|ORKA Robotics                    |Hungary      |5 - 0 - 2|15    |45    |39   |3   |
+|Griffins                         |Slovakia     |4 - 0 - 3|12    |76    |66   |4   |
+|Speshari                         |Slovakia     |3 - 0 - 4|9     |46    |2    |5   |
+|RoboteamE5vos                    |Hungary      |3 - 0 - 4|9     |57    |-25  |6   |
+|NeptuneBots                      |Austria      |0 - 7 - 0|7     |0     |0    |7   |
+|Robros                           |Germany      |0 - 7 - 0|7     |0     |0    |7   |
+|Sonny                            |Italy        |1 - 4 - 2|7     |12    |-39  |9   |
+|NewEtnaTeam                      |Italy        |0 - 6 - 1|6     |7     |-5   |10  |
+|i-bots 7                         |Germany      |0 - 6 - 1|6     |3     |-8   |11  |
+|VenusBots                        |Austria      |0 - 6 - 1|6     |0     |-12  |12  |
+|ZTK Dubrovnik CRO team           |Croatia      |0 - 6 - 1|6     |0     |-14  |13  |
+|i-bots 4                         |Germany      |0 - 6 - 1|6     |1     |-15  |14  |
+|JupiterBots                      |Austria      |0 - 6 - 1|6     |0     |-15  |15  |
+|i-bots 5                         |Germany      |0 - 6 - 1|6     |0     |-15  |15  |
+|DDStudio                         |Hungary      |0 - 6 - 1|6     |1     |-16  |17  |
+|NULL'); DROP TABLE teams         |Austria      |0 - 6 - 1|6     |0     |-18  |18  |
+|i-bots 6                         |Germany      |0 - 6 - 1|6     |0     |-18  |18  |
+|UranusBots                       |Austria      |0 - 6 - 1|6     |0     |-22  |20  |
+|Democritus                       |Greece       |0 - 6 - 1|6     |0     |-34  |21  |
+|EarthBots                        |Austria      |0 - 6 - 1|6     |0     |-39  |22  |
+
+Download results in [PDF](pdfs/qae.pdf)
+
 ## Round 1
 
 ### i-bots 4 vs. i-bots 5
