@@ -1,4 +1,4 @@
-# Qualification: Africa + Pacific
+# Qualification: Asia + Pacific
 
 ## Round 1
 
