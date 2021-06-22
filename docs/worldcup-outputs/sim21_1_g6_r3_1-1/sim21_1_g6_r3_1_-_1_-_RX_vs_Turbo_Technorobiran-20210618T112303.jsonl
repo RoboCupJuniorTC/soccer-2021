@@ -1,0 +1,37 @@
+{"datetime": "2021-06-18T11:23:05.081400Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T11:23:05.095257Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Turbo_Technorobiran", "team_name_blue": "RX", "match_id": "sim21_1_g6_r3_1", "halftime": 1}}
+{"datetime": "2021-06-18T11:23:11.207604Z", "matchtime": 20.863999999988437, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T11:23:11.712160Z", "matchtime": 22.271999999987656, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:23:12.341630Z", "matchtime": 24.191999999986592, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:23:22.705412Z", "matchtime": 46.911999999974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:23:32.344192Z", "matchtime": 69.24799999996162, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:23:43.784506Z", "matchtime": 92.28799999995266, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T11:23:52.881352Z", "matchtime": 106.36799999995736, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:24:23.829243Z", "matchtime": 153.02399999997294, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:24:33.490846Z", "matchtime": 169.47199999997844, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:24:33.602069Z", "matchtime": 169.6639999999785, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:24:50.981202Z", "matchtime": 193.72799999998654, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:25:05.580851Z", "matchtime": 218.94399999999496, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:25:06.100400Z", "matchtime": 219.6479999999952, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:25:31.990685Z", "matchtime": 265.28000000001043, "event": "GOAL", "payload": {"team_name": "Turbo_Technorobiran", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-18T11:25:33.903523Z", "matchtime": 268.28800000001144, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:25:49.803817Z", "matchtime": 287.80800000001796, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:25:51.880566Z", "matchtime": 291.008000000019, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-18T11:25:53.587611Z", "matchtime": 294.01600000002003, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T11:26:04.169771Z", "matchtime": 311.74400000002595, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:26:41.178607Z", "matchtime": 371.0080000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:26:53.844895Z", "matchtime": 393.8560000000312, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:26:55.115859Z", "matchtime": 396.0960000000309, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T11:27:05.563787Z", "matchtime": 411.9040000000292, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:27:09.054065Z", "matchtime": 418.1120000000285, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T11:27:20.621435Z", "matchtime": 435.9040000000266, "event": "GOAL", "payload": {"team_name": "RX", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-18T11:27:23.015524Z", "matchtime": 438.91200000002624, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T11:27:33.417364Z", "matchtime": 454.14400000002456, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:27:53.433264Z", "matchtime": 489.0240000000207, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:28:13.924212Z", "matchtime": 523.648000000017, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:28:14.347859Z", "matchtime": 524.3520000000168, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:28:26.931096Z", "matchtime": 546.9440000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:28:42.615983Z", "matchtime": 572.0320000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:28:43.138255Z", "matchtime": 572.8000000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T11:28:45.127874Z", "matchtime": 576.0000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:28:58.821075Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 2, "team_name_yellow": "Turbo_Technorobiran", "team_name_blue": "RX"}}

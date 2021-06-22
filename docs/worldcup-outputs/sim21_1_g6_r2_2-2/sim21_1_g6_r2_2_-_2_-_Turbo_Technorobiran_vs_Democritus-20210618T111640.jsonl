@@ -1,0 +1,50 @@
+{"datetime": "2021-06-18T11:16:42.041742Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T11:16:42.054013Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 4, "score_blue": 6, "total_match_time": 600, "team_name_yellow": "Democritus", "team_name_blue": "Turbo_Technorobiran", "match_id": "sim21_1_g6_r2_2", "halftime": 2}}
+{"datetime": "2021-06-18T11:16:47.381904Z", "matchtime": 15.487999999991416, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:16:47.782452Z", "matchtime": 16.12799999999106, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:16:58.952227Z", "matchtime": 43.64799999997581, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T11:16:59.262774Z", "matchtime": 44.287999999975455, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 5, "score_blue": 6}}
+{"datetime": "2021-06-18T11:17:00.729287Z", "matchtime": 47.29599999997379, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:17:10.040094Z", "matchtime": 62.39999999996542, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:17:14.812629Z", "matchtime": 71.29599999996049, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:17:26.009475Z", "matchtime": 89.34399999995168, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:17:26.754723Z", "matchtime": 90.6239999999521, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:17:32.665353Z", "matchtime": 100.09599999995527, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 6, "score_blue": 6}}
+{"datetime": "2021-06-18T11:17:34.592041Z", "matchtime": 103.10399999995627, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:17:42.818088Z", "matchtime": 116.79999999996085, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:17:52.553806Z", "matchtime": 132.8639999999662, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:18:29.509385Z", "matchtime": 195.4559999999871, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T11:18:30.783327Z", "matchtime": 197.63199999998784, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T11:18:33.616928Z", "matchtime": 202.3039999999894, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:18:36.257676Z", "matchtime": 206.97599999999096, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 7, "score_blue": 6}}
+{"datetime": "2021-06-18T11:18:38.378374Z", "matchtime": 209.98399999999197, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:18:53.383091Z", "matchtime": 232.19199999999938, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T11:18:54.557557Z", "matchtime": 233.98399999999998, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T11:18:57.415880Z", "matchtime": 238.72000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T11:18:59.970661Z", "matchtime": 243.07200000000302, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:19:27.497112Z", "matchtime": 289.9840000000187, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 8, "score_blue": 6}}
+{"datetime": "2021-06-18T11:19:29.414737Z", "matchtime": 292.9920000000197, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:19:50.262009Z", "matchtime": 328.0000000000314, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:19:54.073675Z", "matchtime": 334.3360000000335, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 9, "score_blue": 6}}
+{"datetime": "2021-06-18T11:19:55.992106Z", "matchtime": 337.3440000000345, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:20:04.663700Z", "matchtime": 352.4480000000358, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:20:16.178528Z", "matchtime": 372.5440000000335, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T11:20:44.550696Z", "matchtime": 418.8800000000284, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:20:53.432796Z", "matchtime": 434.0480000000268, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:20:58.602724Z", "matchtime": 443.3280000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:21:15.108664Z", "matchtime": 467.07200000002314, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:21:19.323573Z", "matchtime": 474.4320000000223, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:21:23.210829Z", "matchtime": 480.8960000000216, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 10, "score_blue": 6}}
+{"datetime": "2021-06-18T11:21:25.131791Z", "matchtime": 483.90400000002126, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:21:34.395022Z", "matchtime": 499.71200000001954, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T11:21:37.100329Z", "matchtime": 503.42400000001913, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 11, "score_blue": 6}}
+{"datetime": "2021-06-18T11:21:39.209569Z", "matchtime": 506.4320000000188, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:21:47.035798Z", "matchtime": 520.1920000000173, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 12, "score_blue": 6}}
+{"datetime": "2021-06-18T11:21:48.971244Z", "matchtime": 523.200000000017, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:21:58.731036Z", "matchtime": 538.4960000000156, "event": "GOAL", "payload": {"team_name": "Democritus", "score_yellow": 13, "score_blue": 6}}
+{"datetime": "2021-06-18T11:22:00.744961Z", "matchtime": 541.5040000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T11:22:09.336072Z", "matchtime": 556.6080000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T11:22:18.100624Z", "matchtime": 571.2640000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:22:29.499003Z", "matchtime": 588.9280000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T11:22:34.421428Z", "matchtime": 597.6320000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T11:22:35.686066Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 13, "score_blue": 6, "team_name_yellow": "Democritus", "team_name_blue": "Turbo_Technorobiran"}}
