@@ -1,0 +1,29 @@
+{"datetime": "2021-06-18T09:47:33.275477Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T09:47:33.288553Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Barcode_Technorobiran", "team_name_blue": "Team Alpha", "match_id": "sim21_1_g5_r4_1", "halftime": 1}}
+{"datetime": "2021-06-18T09:47:38.672603Z", "matchtime": 18.879999999989536, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T09:47:38.783648Z", "matchtime": 19.19999999998936, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:47:49.912474Z", "matchtime": 48.51199999997311, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:48:04.714046Z", "matchtime": 85.18399999995279, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T09:48:04.818003Z", "matchtime": 85.31199999995272, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:48:31.960648Z", "matchtime": 141.88799999996922, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T09:48:33.821204Z", "matchtime": 145.4079999999704, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:48:56.324960Z", "matchtime": 186.04799999998397, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:49:23.051153Z", "matchtime": 232.5119999999995, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:49:36.256657Z", "matchtime": 256.00000000000733, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T09:49:53.528461Z", "matchtime": 285.44000000001716, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:50:18.312455Z", "matchtime": 330.4960000000322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:50:24.163131Z", "matchtime": 340.80000000003565, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T09:50:26.361047Z", "matchtime": 343.80800000003666, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T09:50:48.389343Z", "matchtime": 383.5520000000323, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:51:08.521604Z", "matchtime": 419.1360000000284, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:51:34.230767Z", "matchtime": 464.12800000002346, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T09:51:35.072315Z", "matchtime": 465.60000000002333, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:51:49.416820Z", "matchtime": 489.3440000000207, "event": "GOAL", "payload": {"team_name": "Barcode_Technorobiran", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-18T09:51:51.329311Z", "matchtime": 492.3520000000203, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T09:52:16.338735Z", "matchtime": 535.6800000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T09:52:18.987367Z", "matchtime": 540.0320000000156, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-18T09:52:21.128233Z", "matchtime": 543.0400000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T09:52:32.615347Z", "matchtime": 563.2640000000156, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-06-18T09:52:34.625675Z", "matchtime": 566.2720000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T09:52:46.831784Z", "matchtime": 587.9040000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T09:52:53.936847Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 3, "team_name_yellow": "Barcode_Technorobiran", "team_name_blue": "Team Alpha"}}
