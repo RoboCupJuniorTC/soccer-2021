@@ -4,13 +4,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 1
 
-|#  |Team       |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|-----------|---------|------|------|-----|----|-------------|
-|25 |TFA 406    |4 - 0 - 0|12    |49    |26   |1   |qualified    |
-|18 |Reset      |2 - 0 - 2|6     |49    |26   |2   |qualified    |
-|20 |Phase moon |2 - 0 - 2|6     |35    |16   |3   |qualified    |
-|14 |i-bots 4   |2 - 0 - 2|6     |22    |-15  |4   |qualified    |
-|27 |NewEtnaTeam|0 - 0 - 4|0     |21    |-53  |5   |qualified    |
+|Team       |W - D - L|Points|Scored|Diff.|Rank|
+|-----------|---------|------|------|-----|----|
+|TFA 406    |4 - 0 - 0|12    |49    |26   |1   |
+|Reset      |2 - 0 - 2|6     |49    |26   |2   |
+|Phase moon |2 - 0 - 2|6     |35    |16   |3   |
+|i-bots 4   |2 - 0 - 2|6     |22    |-15  |4   |
+|NewEtnaTeam|0 - 0 - 4|0     |21    |-53  |5   |
 
 
 ### Phase Moon vs. i-bots 4
@@ -74,13 +74,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 2
 
-|#  |Team               |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|-------------------|---------|------|------|-----|----|-------------|
-|4  |XLC-Innovation     |4 - 0 - 0|12    |31    |25   |1   |qualified    |
-|50 |F1_Formula         |3 - 0 - 1|9     |47    |33   |2   |qualified    |
-|31 |Robros             |2 - 0 - 2|6     |38    |0    |3   |qualified    |
-|41 |Power-Technorobiran|1 - 0 - 3|3     |29    |-5   |4   |qualified    |
-|12 |musou japan        |0 - 0 - 4|0     |14    |-53  |5   |qualified    |
+|Team               |W - D - L|Points|Scored|Diff.|Rank|
+|-------------------|---------|------|------|-----|----|
+|XLC-Innovation     |4 - 0 - 0|12    |31    |25   |1   |
+|F1_Formula         |3 - 0 - 1|9     |47    |33   |2   |
+|Robros             |2 - 0 - 2|6     |38    |0    |3   |
+|Power-Technorobiran|1 - 0 - 3|3     |29    |-5   |4   |
+|musou japan        |0 - 0 - 4|0     |14    |-53  |5   |
 
 ### power_technorobiran vs. musou japan
 - **Final result:** (13 : 7)
@@ -143,13 +143,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 3
 
-|#  |Team                  |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|----------------------|---------|------|------|-----|----|-------------|
-|13 |King-Kong             |4 - 0 - 0|12    |121   |109  |1   |qualified    |
-|28 |ZTK Dubrovnik CRO team|3 - 0 - 1|9     |23    |-10  |2   |qualified    |
-|45 |Radiant               |2 - 0 - 2|6     |28    |-1   |3   |qualified    |
-|8  |Helix                 |1 - 0 - 3|3     |16    |-40  |4   |qualified    |
-|24 |DDStudio              |0 - 0 - 4|0     |15    |-58  |5   |qualified    |
+|Team                  |W - D - L|Points|Scored|Diff.|Rank|
+|----------------------|---------|------|------|-----|----|
+|King-Kong             |4 - 0 - 0|12    |121   |109  |1   |
+|ZTK Dubrovnik CRO team|3 - 0 - 1|9     |23    |-10  |2   |
+|Radiant               |2 - 0 - 2|6     |28    |-1   |3   |
+|Helix                 |1 - 0 - 3|3     |16    |-40  |4   |
+|DDStudio              |0 - 0 - 4|0     |15    |-58  |5   |
 
 ### Radiant vs. Helix
 - **Final result:** (8 : 3)
@@ -212,13 +212,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 4
 
-|#  |Team          |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|--------------|---------|------|------|-----|----|-------------|
-|2  |FAST AND SMART|4 - 0 - 0|12    |40    |33   |1   |qualified    |
-|15 |i-bots 5      |2 - 0 - 2|6     |51    |22   |2   |qualified    |
-|10 |Griffins      |2 - 0 - 2|6     |36    |16   |3   |qualified    |
-|59 |TX            |2 - 0 - 2|6     |31    |1    |4   |qualified    |
-|55 |Pooyesh       |0 - 0 - 4|0     |4     |-72  |5   |qualified    |
+|Team          |W - D - L|Points|Scored|Diff.|Rank|
+|--------------|---------|------|------|-----|----|
+|FAST AND SMART|4 - 0 - 0|12    |40    |33   |1   |
+|i-bots 5      |2 - 0 - 2|6     |51    |22   |2   |
+|Griffins      |2 - 0 - 2|6     |36    |16   |3   |
+|TX            |2 - 0 - 2|6     |31    |1    |4   |
+|Pooyesh       |0 - 0 - 4|0     |4     |-72  |5   |
 
 ### Pooyesh vs. FAST AND SMART
 - **Final result:** (0 : 13)
@@ -275,13 +275,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 5
 
-|#  |Team                 |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|---------------------|---------|------|------|-----|----|-------------|
-|19 |Apex                 |4 - 0 - 0|12    |35    |29   |1   |qualified    |
-|9  |Team Alpha           |3 - 0 - 1|9     |27    |20   |2   |qualified    |
-|47 |A.T.S.T              |2 - 0 - 2|6     |32    |3    |3   |qualified    |
-|44 |Barcode_Technorobiran|1 - 0 - 3|3     |18    |-8   |4   |qualified    |
-|16 |i-bots 6             |0 - 0 - 4|0     |5     |-44  |5   |qualified    |
+|Team                 |W - D - L|Points|Scored|Diff.|Rank|
+|---------------------|---------|------|------|-----|----|
+|Apex                 |4 - 0 - 0|12    |35    |29   |1   |
+|Team Alpha           |3 - 0 - 1|9     |27    |20   |2   |
+|A.T.S.T              |2 - 0 - 2|6     |32    |3    |3   |
+|Barcode_Technorobiran|1 - 0 - 3|3     |18    |-8   |4   |
+|i-bots 6             |0 - 0 - 4|0     |5     |-44  |5   |
 
 ### Pooyesh vs. Griffins
 - **Final result:** (0 : 20)
@@ -350,13 +350,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 6
 
-|#  |Team               |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|-------------------|---------|------|------|-----|----|-------------|
-|29 |GJH_team           |4 - 0 - 0|12    |41    |37   |1   |qualified    |
-|26 |ORKA Robotics      |3 - 0 - 1|9     |10    |2    |2   |qualified    |
-|6  |Democritus         |1 - 0 - 3|3     |26    |-9   |3   |qualified    |
-|60 |RX                 |1 - 0 - 3|3     |21    |-10  |4   |qualified    |
-|43 |Turbo-Technorobiran|1 - 0 - 3|3     |15    |-20  |5   |qualified    |
+|Team               |W - D - L|Points|Scored|Diff.|Rank|
+|-------------------|---------|------|------|-----|----|
+|GJH_team           |4 - 0 - 0|12    |41    |37   |1   |
+|ORKA Robotics      |3 - 0 - 1|9     |10    |2    |2   |
+|Democritus         |1 - 0 - 3|3     |26    |-9   |3   |
+|RX                 |1 - 0 - 3|3     |21    |-10  |4   |
+|Turbo-Technorobiran|1 - 0 - 3|3     |15    |-20  |5   |
 
 ### ORKA Robotics vs. GJH_team
 - **Final result:** (0 : 3)
@@ -419,13 +419,13 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 7
 
-|#  |Team               |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|-------------------|---------|------|------|-----|----|-------------|
-|23 |moyasirobo         |4 - 0 - 0|12    |27    |24   |1   |qualified    |
-|48 |Hero boys          |2 - 1 - 1|7     |31    |16   |2   |qualified    |
-|56 |Speshari           |2 - 0 - 2|6     |19    |1    |3   |qualified    |
-|46 |Allameh Tabatabaei |1 - 1 - 2|4     |26    |9    |4   |qualified    |
-|11 |Orion              |0 - 0 - 4|0     |4     |-50  |5   |qualified    |
+|Team               |W - D - L|Points|Scored|Diff.|Rank|
+|-------------------|---------|------|------|-----|----|
+|moyasirobo         |4 - 0 - 0|12    |27    |24   |1   |
+|Hero boys          |2 - 1 - 1|7     |31    |16   |2   |
+|Speshari           |2 - 0 - 2|6     |19    |1    |3   |
+|Allameh Tabatabaei |1 - 1 - 2|4     |26    |9    |4   |
+|Orion              |0 - 0 - 4|0     |4     |-50  |5   |
 
 ### Heroboys vs. Speshari
 - **Final result:** (9 : 2)
@@ -488,12 +488,12 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 ## Group 8
 
-|#  |Team                             |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|---|---------------------------------|---------|------|------|-----|----|-------------|
-|17 |Williamstown High School's Finest|3 - 0 - 0|9     |21    |7    |1   |qualified    |
-|22 |NOVA                             |2 - 0 - 1|6     |34    |25   |2   |qualified    |
-|51 |RoboteamE5vos                    |1 - 0 - 2|3     |14    |-8   |3   |qualified    |
-|21 |i-bots 7                         |0 - 0 - 3|0     |12    |-24  |4   |qualified    |
+|Team                             |W - D - L|Points|Scored|Diff.|Rank|
+|---------------------------------|---------|------|------|-----|----|
+|Williamstown High School's Finest|3 - 0 - 0|9     |21    |7    |1   |
+|NOVA                             |2 - 0 - 1|6     |34    |25   |2   |
+|RoboteamE5vos                    |1 - 0 - 2|3     |14    |-8   |3   |
+|i-bots 7                         |0 - 0 - 3|0     |12    |-24  |4   |
 
 ### NOVA vs. i-bots 7
 - **Final result:** (17 : 2)
