@@ -1,0 +1,46 @@
+{"datetime": "2021-06-18T02:44:46.437308Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:44:46.452263Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 10, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "F1_Formula", "team_name_blue": "musou japan", "match_id": "sim21_1_g2_r2_1", "halftime": 2}}
+{"datetime": "2021-06-18T02:45:04.035764Z", "matchtime": 51.519999999971446, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 11, "score_blue": 0}}
+{"datetime": "2021-06-18T02:45:05.500203Z", "matchtime": 54.52799999996978, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:45:14.990216Z", "matchtime": 78.97599999995623, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T02:45:15.513429Z", "matchtime": 79.67999999995584, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:45:17.473589Z", "matchtime": 83.9039999999535, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 12, "score_blue": 0}}
+{"datetime": "2021-06-18T02:45:18.855424Z", "matchtime": 86.91199999995183, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:45:41.598317Z", "matchtime": 122.30399999996268, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:45:54.484054Z", "matchtime": 142.1439999999693, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T02:45:54.797349Z", "matchtime": 142.3999999999694, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:46:15.131363Z", "matchtime": 174.91199999998025, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 13, "score_blue": 0}}
+{"datetime": "2021-06-18T02:46:17.153847Z", "matchtime": 177.91999999998126, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:46:20.917274Z", "matchtime": 184.83199999998357, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 13, "score_blue": 1}}
+{"datetime": "2021-06-18T02:46:22.633957Z", "matchtime": 187.83999999998457, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T02:46:33.871679Z", "matchtime": 204.60799999999017, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:46:48.520325Z", "matchtime": 230.1439999999987, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T02:47:25.585194Z", "matchtime": 291.5840000000192, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T02:47:27.063982Z", "matchtime": 293.44000000001984, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:47:30.550134Z", "matchtime": 299.45600000002185, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 14, "score_blue": 1}}
+{"datetime": "2021-06-18T02:47:32.363459Z", "matchtime": 302.46400000002285, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:47:53.362988Z", "matchtime": 332.41600000003285, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:47:55.759763Z", "matchtime": 335.936000000034, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 15, "score_blue": 1}}
+{"datetime": "2021-06-18T02:47:57.673806Z", "matchtime": 338.94400000003503, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:48:15.360737Z", "matchtime": 363.4560000000346, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:48:17.669594Z", "matchtime": 366.5920000000342, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 16, "score_blue": 1}}
+{"datetime": "2021-06-18T02:48:19.382175Z", "matchtime": 369.6000000000339, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:48:29.487043Z", "matchtime": 386.560000000032, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:48:47.917124Z", "matchtime": 417.9840000000286, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 17, "score_blue": 1}}
+{"datetime": "2021-06-18T02:48:49.730437Z", "matchtime": 420.9920000000282, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:49:20.477049Z", "matchtime": 472.3840000000225, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:49:22.988504Z", "matchtime": 476.73600000002205, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 18, "score_blue": 1}}
+{"datetime": "2021-06-18T02:49:24.696781Z", "matchtime": 479.74400000002174, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:49:42.303625Z", "matchtime": 509.56800000001846, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T02:49:44.259887Z", "matchtime": 511.8720000000182, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:49:46.468386Z", "matchtime": 515.3280000000178, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 19, "score_blue": 1}}
+{"datetime": "2021-06-18T02:49:48.271129Z", "matchtime": 518.3360000000175, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:50:02.464749Z", "matchtime": 541.5680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:50:05.931461Z", "matchtime": 547.6480000000156, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 20, "score_blue": 1}}
+{"datetime": "2021-06-18T02:50:07.632122Z", "matchtime": 550.6560000000155, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:50:12.772499Z", "matchtime": 559.8720000000155, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 20, "score_blue": 2}}
+{"datetime": "2021-06-18T02:50:14.687104Z", "matchtime": 562.8800000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T02:50:29.907018Z", "matchtime": 581.3760000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:50:32.047963Z", "matchtime": 584.7040000000156, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 21, "score_blue": 2}}
+{"datetime": "2021-06-18T02:50:33.768783Z", "matchtime": 587.7120000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:50:40.677557Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 21, "score_blue": 2, "team_name_yellow": "F1_Formula", "team_name_blue": "musou japan"}}
