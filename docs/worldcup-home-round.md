@@ -1,4 +1,4 @@
-# Group Phase - Home Round
+# SoccerSim Group Phase - Home Round
 
 Download results in [PDF](pdfs/wc-home-round.pdf)
 
