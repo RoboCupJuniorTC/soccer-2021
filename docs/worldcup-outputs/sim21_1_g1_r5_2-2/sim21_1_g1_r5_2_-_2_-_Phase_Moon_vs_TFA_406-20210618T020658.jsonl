@@ -1,0 +1,39 @@
+{"datetime": "2021-06-18T02:07:00.068754Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T02:07:00.082260Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 4, "score_blue": 3, "total_match_time": 600, "team_name_yellow": "TFA 406", "team_name_blue": "Phase Moon", "match_id": "sim21_1_g1_r5_2", "halftime": 2}}
+{"datetime": "2021-06-18T02:07:09.845461Z", "matchtime": 31.551999999982513, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:07:17.429129Z", "matchtime": 54.39999999996985, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:07:27.141392Z", "matchtime": 79.0399999999562, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T02:07:32.601938Z", "matchtime": 91.64799999995245, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:07:42.805573Z", "matchtime": 112.25599999995933, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:07:49.541992Z", "matchtime": 125.31199999996369, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:08:02.244745Z", "matchtime": 148.7359999999715, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:08:17.506387Z", "matchtime": 174.97599999998027, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:08:32.346766Z", "matchtime": 201.91999999998927, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:08:40.495462Z", "matchtime": 216.31999999999408, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:08:53.806525Z", "matchtime": 240.25600000000208, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T02:08:58.523552Z", "matchtime": 248.76800000000492, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T02:09:05.624618Z", "matchtime": 260.1600000000087, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:09:16.002963Z", "matchtime": 278.46400000001483, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 4, "score_blue": 4}}
+{"datetime": "2021-06-18T02:09:17.811657Z", "matchtime": 281.47200000001584, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T02:09:20.632804Z", "matchtime": 286.4640000000175, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 5, "score_blue": 4}}
+{"datetime": "2021-06-18T02:09:22.441795Z", "matchtime": 289.4720000000185, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:09:38.098879Z", "matchtime": 314.6240000000269, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:09:39.993413Z", "matchtime": 318.08000000002806, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 6, "score_blue": 4}}
+{"datetime": "2021-06-18T02:09:42.319848Z", "matchtime": 321.08800000002907, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:10:02.314065Z", "matchtime": 356.8000000000353, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T02:10:06.728415Z", "matchtime": 363.52000000003454, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T02:10:12.403629Z", "matchtime": 372.92800000003353, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:10:24.259060Z", "matchtime": 390.2080000000316, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:10:27.528720Z", "matchtime": 395.776000000031, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T02:10:28.062587Z", "matchtime": 396.6720000000309, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T02:10:37.885395Z", "matchtime": 411.9040000000292, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:10:50.537259Z", "matchtime": 431.2320000000271, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:11:03.498490Z", "matchtime": 453.7600000000246, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 7, "score_blue": 4}}
+{"datetime": "2021-06-18T02:11:05.226944Z", "matchtime": 456.76800000002424, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T02:11:21.414266Z", "matchtime": 484.6080000000212, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T02:11:22.051732Z", "matchtime": 485.69600000002106, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:11:33.597139Z", "matchtime": 505.53600000001893, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 7, "score_blue": 5}}
+{"datetime": "2021-06-18T02:11:35.409976Z", "matchtime": 508.54400000001857, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T02:11:46.557753Z", "matchtime": 524.2240000000169, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:12:05.089094Z", "matchtime": 556.7360000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T02:12:29.665019Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 7, "score_blue": 5, "team_name_yellow": "TFA 406", "team_name_blue": "Phase Moon"}}

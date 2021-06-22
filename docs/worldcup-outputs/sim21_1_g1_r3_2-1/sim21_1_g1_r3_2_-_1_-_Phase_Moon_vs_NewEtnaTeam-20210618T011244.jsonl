@@ -1,0 +1,49 @@
+{"datetime": "2021-06-18T01:12:46.098488Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:12:46.205220Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "NewEtnaTeam", "team_name_blue": "Phase Moon", "match_id": "sim21_1_g1_r3_2", "halftime": 1}}
+{"datetime": "2021-06-18T01:12:55.052781Z", "matchtime": 31.48799999998255, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:12:59.116170Z", "matchtime": 43.583999999975845, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:13:01.158753Z", "matchtime": 49.59999999997251, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T01:13:02.396755Z", "matchtime": 52.60799999997084, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:13:09.431556Z", "matchtime": 68.54399999996201, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-18T01:13:10.985857Z", "matchtime": 71.55199999996034, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:13:13.460928Z", "matchtime": 76.28799999995772, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-18T01:13:15.759793Z", "matchtime": 79.29599999995605, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:13:31.431684Z", "matchtime": 103.80799999995651, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:14:01.940957Z", "matchtime": 155.3279999999737, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-06-18T01:14:03.644058Z", "matchtime": 158.33599999997472, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:14:16.495898Z", "matchtime": 177.4719999999811, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:14:33.041729Z", "matchtime": 202.43199999998944, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:14:54.567368Z", "matchtime": 241.02400000000233, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:15:07.382908Z", "matchtime": 261.2480000000091, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 2, "score_blue": 3}}
+{"datetime": "2021-06-18T01:15:09.716377Z", "matchtime": 264.2560000000101, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:15:12.243099Z", "matchtime": 268.86400000001163, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-06-18T01:15:14.046795Z", "matchtime": 271.87200000001263, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:15:30.214820Z", "matchtime": 294.2080000000201, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T01:15:33.017768Z", "matchtime": 297.7920000000213, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 3, "score_blue": 4}}
+{"datetime": "2021-06-18T01:15:35.438506Z", "matchtime": 300.8000000000223, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:15:44.765039Z", "matchtime": 317.18400000002777, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 3, "score_blue": 5}}
+{"datetime": "2021-06-18T01:15:46.471861Z", "matchtime": 320.19200000002877, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:16:00.455625Z", "matchtime": 345.47200000003653, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T01:16:07.006951Z", "matchtime": 357.31200000003525, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:16:19.170881Z", "matchtime": 378.8160000000329, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T01:16:20.227820Z", "matchtime": 380.6080000000327, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 3, "score_blue": 6}}
+{"datetime": "2021-06-18T01:16:21.946796Z", "matchtime": 383.61600000003233, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:16:29.349717Z", "matchtime": 396.7360000000309, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 4, "score_blue": 6}}
+{"datetime": "2021-06-18T01:16:31.566974Z", "matchtime": 399.74400000003055, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:16:34.203684Z", "matchtime": 404.48000000003003, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 4, "score_blue": 7}}
+{"datetime": "2021-06-18T01:16:36.208154Z", "matchtime": 407.48800000002973, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:16:47.442701Z", "matchtime": 426.81600000002754, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:16:57.959549Z", "matchtime": 445.18400000002555, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:16:59.416971Z", "matchtime": 447.74400000002527, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 4, "score_blue": 8}}
+{"datetime": "2021-06-18T01:17:01.125065Z", "matchtime": 450.75200000002496, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:17:34.329576Z", "matchtime": 505.4080000000189, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:17:46.272968Z", "matchtime": 527.0400000000166, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T01:17:47.228818Z", "matchtime": 528.7040000000163, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:17:47.448674Z", "matchtime": 529.0880000000163, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T01:17:49.103875Z", "matchtime": 532.0960000000159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T01:18:07.498559Z", "matchtime": 563.4560000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T01:18:16.883947Z", "matchtime": 580.2880000000156, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 5, "score_blue": 8}}
+{"datetime": "2021-06-18T01:18:19.311008Z", "matchtime": 583.2960000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T01:18:21.919854Z", "matchtime": 587.9680000000156, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 5, "score_blue": 9}}
+{"datetime": "2021-06-18T01:18:23.605876Z", "matchtime": 590.9760000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T01:18:28.515378Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 5, "score_blue": 9, "team_name_yellow": "NewEtnaTeam", "team_name_blue": "Phase Moon"}}
