@@ -1,0 +1,26 @@
+{"datetime": "2021-06-18T06:10:23.223636Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:10:23.236321Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 1, "score_blue": 3, "total_match_time": 600, "team_name_yellow": "Helix", "team_name_blue": "ZTK Dubrovnik CRO team", "match_id": "sim21_1_g3_r5_1", "halftime": 2}}
+{"datetime": "2021-06-18T06:10:31.190748Z", "matchtime": 16.83199999999067, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T06:10:33.785025Z", "matchtime": 19.77599999998904, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:10:51.400366Z", "matchtime": 64.57599999996421, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-06-18T06:10:52.764780Z", "matchtime": 67.58399999996254, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:10:54.022190Z", "matchtime": 70.33599999996102, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 1, "score_blue": 5}}
+{"datetime": "2021-06-18T06:10:55.700067Z", "matchtime": 73.34399999995935, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:11:23.271585Z", "matchtime": 123.45599999996307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:11:36.297748Z", "matchtime": 146.11199999997064, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 1, "score_blue": 6}}
+{"datetime": "2021-06-18T06:11:38.414369Z", "matchtime": 149.11999999997164, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:12:23.476199Z", "matchtime": 210.047999999992, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:12:52.337964Z", "matchtime": 251.45600000000582, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:13:05.292031Z", "matchtime": 270.14400000001206, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:13:38.405026Z", "matchtime": 315.4560000000272, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:13:45.725958Z", "matchtime": 327.1040000000311, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 1, "score_blue": 7}}
+{"datetime": "2021-06-18T06:13:47.585548Z", "matchtime": 330.1120000000321, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:14:04.450553Z", "matchtime": 349.8880000000361, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:15:28.540988Z", "matchtime": 482.30400000002146, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:15:28.649926Z", "matchtime": 482.3680000000214, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T06:15:36.417911Z", "matchtime": 492.41600000002035, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:15:47.446758Z", "matchtime": 506.4320000000188, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:15:54.954490Z", "matchtime": 518.9760000000174, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 1, "score_blue": 8}}
+{"datetime": "2021-06-18T06:15:56.805734Z", "matchtime": 521.9840000000171, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T06:16:11.034904Z", "matchtime": 540.4800000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T06:16:49.202338Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 8, "team_name_yellow": "Helix", "team_name_blue": "ZTK Dubrovnik CRO team"}}
