@@ -1,6 +1,6 @@
-# RCJ SoccerSim 2021
+# RCJ Soccer 2021
 
-## Qualification
+## SoccerSim Qualification
 
 - [Africa + Europe](qualification-africa-europe.md)
 - [Americas](qualification-americas.md)
