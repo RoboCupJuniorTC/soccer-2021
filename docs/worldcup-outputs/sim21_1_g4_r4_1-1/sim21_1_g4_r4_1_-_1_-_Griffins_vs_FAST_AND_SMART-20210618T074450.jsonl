@@ -1,0 +1,30 @@
+{"datetime": "2021-06-18T07:44:52.647848Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T07:44:52.661655Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "FAST AND SMART", "team_name_blue": "Griffins", "match_id": "sim21_1_g4_r4_1", "halftime": 1}}
+{"datetime": "2021-06-18T07:44:54.328460Z", "matchtime": 4.863999999997304, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-18T07:44:56.419425Z", "matchtime": 7.871999999995637, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:45:17.383503Z", "matchtime": 47.93599999997343, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:45:28.315285Z", "matchtime": 70.52799999996091, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:45:53.115669Z", "matchtime": 118.97599999996157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:46:06.787913Z", "matchtime": 143.80799999996987, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:46:17.345180Z", "matchtime": 160.3839999999754, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:46:34.745789Z", "matchtime": 189.6959999999852, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:46:45.710910Z", "matchtime": 207.4239999999911, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:46:49.091967Z", "matchtime": 213.50399999999314, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T07:47:11.024323Z", "matchtime": 246.40000000000413, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:47:37.385303Z", "matchtime": 288.8960000000183, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:48:02.066692Z", "matchtime": 330.30400000003215, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:48:12.456945Z", "matchtime": 347.3920000000363, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:48:23.063843Z", "matchtime": 364.54400000003443, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:48:38.911728Z", "matchtime": 392.1280000000314, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:49:02.281456Z", "matchtime": 431.2960000000271, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:49:12.674743Z", "matchtime": 447.2320000000253, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:49:32.391480Z", "matchtime": 479.1040000000218, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:49:45.475946Z", "matchtime": 498.68800000001966, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:50:04.949175Z", "matchtime": 531.2000000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T07:50:09.144996Z", "matchtime": 539.0720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T07:50:10.162535Z", "matchtime": 540.8000000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T07:50:11.711129Z", "matchtime": 543.7440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:50:21.298142Z", "matchtime": 560.6400000000156, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-18T07:50:23.306521Z", "matchtime": 563.6480000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:50:36.991235Z", "matchtime": 587.3280000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:50:44.065063Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 0, "team_name_yellow": "FAST AND SMART", "team_name_blue": "Griffins"}}

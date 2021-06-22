@@ -1,0 +1,36 @@
+{"datetime": "2021-06-18T07:13:56.701065Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:13:56.716210Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 5, "score_blue": 3, "total_match_time": 600, "team_name_yellow": "TX", "team_name_blue": "Griffins", "match_id": "sim21_1_g4_r2_2", "halftime": 2}}
+{"datetime": "2021-06-18T07:14:01.329224Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T07:14:02.953712Z", "matchtime": 18.559999999989714, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T07:14:06.771759Z", "matchtime": 25.471999999985883, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:14:08.422824Z", "matchtime": 29.311999999983755, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 6, "score_blue": 3}}
+{"datetime": "2021-06-18T07:14:09.782794Z", "matchtime": 32.31999999998209, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:14:11.545043Z", "matchtime": 36.03199999998003, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 6, "score_blue": 4}}
+{"datetime": "2021-06-18T07:14:13.220589Z", "matchtime": 39.03999999997836, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T07:14:30.442839Z", "matchtime": 69.63199999996141, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T07:14:35.214290Z", "matchtime": 75.775999999958, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:14:47.625670Z", "matchtime": 93.05599999995292, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:15:19.165237Z", "matchtime": 146.36799999997072, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:15:26.922533Z", "matchtime": 160.19199999997534, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 6, "score_blue": 5}}
+{"datetime": "2021-06-18T07:15:28.728926Z", "matchtime": 163.19999999997634, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T07:15:48.673208Z", "matchtime": 194.04799999998664, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:16:04.950119Z", "matchtime": 221.7599999999959, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:16:30.393389Z", "matchtime": 264.06400000001, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:16:43.912979Z", "matchtime": 283.84000000001663, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T07:16:48.309973Z", "matchtime": 289.53600000001853, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:16:50.934628Z", "matchtime": 294.14400000002007, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 7, "score_blue": 5}}
+{"datetime": "2021-06-18T07:16:52.730271Z", "matchtime": 297.1520000000211, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:17:03.721803Z", "matchtime": 313.0880000000264, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 7, "score_blue": 6}}
+{"datetime": "2021-06-18T07:17:05.636036Z", "matchtime": 316.0960000000274, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T07:17:18.903998Z", "matchtime": 337.0240000000344, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:17:29.413806Z", "matchtime": 354.3680000000355, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:17:49.192212Z", "matchtime": 385.7920000000321, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:18:12.908363Z", "matchtime": 422.720000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:18:15.000460Z", "matchtime": 425.98400000002766, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 8, "score_blue": 6}}
+{"datetime": "2021-06-18T07:18:16.702446Z", "matchtime": 428.99200000002736, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T07:18:38.658356Z", "matchtime": 465.02400000002336, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:18:50.587772Z", "matchtime": 485.31200000002116, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:19:35.707087Z", "matchtime": 557.6960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:19:51.609040Z", "matchtime": 586.0480000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T07:19:58.585392Z", "matchtime": 598.2720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T07:19:59.633942Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 8, "score_blue": 6, "team_name_yellow": "TX", "team_name_blue": "Griffins"}}
