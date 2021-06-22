@@ -1,0 +1,37 @@
+{"datetime": "2021-06-18T14:38:59.246609Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T14:38:59.258632Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "NOVA", "team_name_blue": "i-bots 7", "match_id": "sim21_1_g8_r1_1", "halftime": 1}}
+{"datetime": "2021-06-18T14:39:07.205221Z", "matchtime": 25.40799999998592, "event": "GOAL", "payload": {"team_name": "i-bots 7", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T14:39:08.437931Z", "matchtime": 28.41599999998425, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T14:39:25.037193Z", "matchtime": 71.9999999999601, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T14:39:25.248853Z", "matchtime": 72.51199999995981, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T14:39:25.662477Z", "matchtime": 73.40799999995932, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T14:39:29.560240Z", "matchtime": 81.15199999995502, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-18T14:39:31.228360Z", "matchtime": 84.15999999995336, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:39:48.048070Z", "matchtime": 113.21599999995965, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2021-06-18T14:39:49.853795Z", "matchtime": 116.22399999996065, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:40:13.172615Z", "matchtime": 146.23999999997068, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T14:40:13.487003Z", "matchtime": 146.55999999997078, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T14:40:14.624414Z", "matchtime": 148.22399999997134, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T14:40:56.349664Z", "matchtime": 222.27199999999607, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T14:41:44.880545Z", "matchtime": 302.0800000000227, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T14:41:48.144899Z", "matchtime": 307.84000000002465, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 3, "score_blue": 1}}
+{"datetime": "2021-06-18T14:41:49.836629Z", "matchtime": 310.84800000002565, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:41:57.408773Z", "matchtime": 324.4800000000302, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 4, "score_blue": 1}}
+{"datetime": "2021-06-18T14:41:59.095439Z", "matchtime": 327.4880000000312, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:42:09.716711Z", "matchtime": 344.44800000003664, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T14:42:11.378501Z", "matchtime": 346.8160000000364, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T14:42:21.861509Z", "matchtime": 364.28800000003446, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 5, "score_blue": 1}}
+{"datetime": "2021-06-18T14:42:23.540604Z", "matchtime": 367.29600000003416, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:42:32.989397Z", "matchtime": 384.6400000000322, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 6, "score_blue": 1}}
+{"datetime": "2021-06-18T14:42:34.691058Z", "matchtime": 387.64800000003186, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:42:59.901544Z", "matchtime": 431.42400000002704, "event": "GOAL", "payload": {"team_name": "i-bots 7", "score_yellow": 6, "score_blue": 2}}
+{"datetime": "2021-06-18T14:43:01.986061Z", "matchtime": 434.43200000002673, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T14:43:04.587595Z", "matchtime": 439.1680000000262, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 7, "score_blue": 2}}
+{"datetime": "2021-06-18T14:43:06.389910Z", "matchtime": 442.17600000002585, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:43:21.100600Z", "matchtime": 468.60800000002297, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T14:43:22.870460Z", "matchtime": 471.2960000000227, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T14:43:23.819054Z", "matchtime": 472.89600000002247, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T14:43:35.306597Z", "matchtime": 494.0160000000202, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T14:44:26.418742Z", "matchtime": 582.7200000000156, "event": "GOAL", "payload": {"team_name": "NOVA", "score_yellow": 8, "score_blue": 2}}
+{"datetime": "2021-06-18T14:44:28.109552Z", "matchtime": 585.7280000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T14:44:35.894721Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 8, "score_blue": 2, "team_name_yellow": "NOVA", "team_name_blue": "i-bots 7"}}
