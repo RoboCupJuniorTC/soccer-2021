@@ -1,0 +1,39 @@
+{"datetime": "2021-06-19T07:07:48.784139Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T07:07:48.796653Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Speshari", "team_name_blue": "allameh tabatabaei", "match_id": "sim21_2_g7_r5_1", "halftime": 1}}
+{"datetime": "2021-06-19T07:07:54.367620Z", "matchtime": 19.327999999989288, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-19T07:07:55.601542Z", "matchtime": 22.33599999998762, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T07:08:05.069538Z", "matchtime": 39.8719999999779, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:08:05.990232Z", "matchtime": 41.8559999999768, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T07:08:24.874334Z", "matchtime": 79.9359999999557, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-19T07:08:26.849240Z", "matchtime": 82.94399999995403, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T07:08:46.450971Z", "matchtime": 117.63199999996112, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T07:08:46.857749Z", "matchtime": 118.07999999996127, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:09:03.914150Z", "matchtime": 141.05599999996895, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-19T07:09:06.634209Z", "matchtime": 144.06399999996995, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T07:09:15.964361Z", "matchtime": 159.167999999975, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T07:09:21.952180Z", "matchtime": 169.27999999997837, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T07:09:29.121685Z", "matchtime": 179.19999999998169, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:09:41.644506Z", "matchtime": 197.37599999998776, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T07:09:44.060271Z", "matchtime": 199.99999999998863, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:10:02.125785Z", "matchtime": 227.51999999999782, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:10:19.950391Z", "matchtime": 251.7120000000059, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:10:40.744018Z", "matchtime": 279.36000000001513, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-06-19T07:10:43.398239Z", "matchtime": 282.36800000001614, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T07:10:58.531981Z", "matchtime": 302.848000000023, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-06-19T07:11:01.164677Z", "matchtime": 305.856000000024, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T07:11:14.690489Z", "matchtime": 326.2080000000308, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T07:11:15.513060Z", "matchtime": 327.1680000000311, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:11:39.655249Z", "matchtime": 363.1360000000346, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:11:53.262044Z", "matchtime": 382.5280000000324, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:12:02.151554Z", "matchtime": 398.08000000003074, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:12:04.453978Z", "matchtime": 402.1120000000303, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T07:12:16.292856Z", "matchtime": 419.26400000002843, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:12:41.210940Z", "matchtime": 461.8240000000237, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T07:12:50.794588Z", "matchtime": 478.4000000000219, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-06-19T07:12:53.125374Z", "matchtime": 481.40800000002156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T07:13:04.651886Z", "matchtime": 498.4320000000197, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:13:20.855049Z", "matchtime": 520.8320000000172, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T07:13:46.935001Z", "matchtime": 567.4880000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T07:13:57.698636Z", "matchtime": 585.6000000000156, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-06-19T07:13:59.995848Z", "matchtime": 588.6080000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T07:14:06.452070Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 5, "team_name_yellow": "Speshari", "team_name_blue": "allameh tabatabaei"}}
