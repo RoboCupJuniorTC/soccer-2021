@@ -9,3 +9,4 @@
 ## SoccerSim World Championship
 
 - [Group Phase - Home Round](worldcup-home-round.md)
+- [Group Phase - Away Round](worldcup-away-round.md)
