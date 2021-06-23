@@ -1,0 +1,60 @@
+{"datetime": "2021-06-19T06:31:01.613740Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:31:01.627588Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Heroboys", "team_name_blue": "allameh tabatabaei", "match_id": "sim21_2_g7_r3_2", "halftime": 1}}
+{"datetime": "2021-06-19T06:31:09.214071Z", "matchtime": 18.111999999989962, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:31:13.095915Z", "matchtime": 30.271999999983223, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-19T06:31:14.244108Z", "matchtime": 33.279999999981555, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:31:22.419043Z", "matchtime": 51.071999999971695, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:31:22.528644Z", "matchtime": 51.26399999997159, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:31:35.567014Z", "matchtime": 77.37599999995712, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:31:37.342296Z", "matchtime": 80.57599999995534, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:31:40.810815Z", "matchtime": 86.59199999995201, "event": "GOAL", "payload": {"team_name": "Heroboys", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-19T06:31:42.738524Z", "matchtime": 89.59999999995176, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:31:56.165985Z", "matchtime": 109.88799999995854, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:32:06.704523Z", "matchtime": 126.97599999996424, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:32:07.125380Z", "matchtime": 127.55199999996444, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:32:09.232593Z", "matchtime": 131.19999999996566, "event": "GOAL", "payload": {"team_name": "Heroboys", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2021-06-19T06:32:10.961049Z", "matchtime": 134.20799999996666, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:32:21.940993Z", "matchtime": 152.51199999997277, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:32:22.573266Z", "matchtime": 153.53599999997311, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:32:26.405436Z", "matchtime": 160.19199999997534, "event": "GOAL", "payload": {"team_name": "Heroboys", "score_yellow": 3, "score_blue": 1}}
+{"datetime": "2021-06-19T06:32:28.327855Z", "matchtime": 163.19999999997634, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:32:38.318226Z", "matchtime": 180.86399999998224, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:32:39.161001Z", "matchtime": 182.2719999999827, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:32:49.870160Z", "matchtime": 201.4079999999891, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:33:01.308981Z", "matchtime": 221.11999999999568, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:33:02.270501Z", "matchtime": 222.84799999999626, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:33:04.295294Z", "matchtime": 226.49599999999748, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 3, "score_blue": 2}}
+{"datetime": "2021-06-19T06:33:06.216570Z", "matchtime": 229.50399999999848, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:33:13.901784Z", "matchtime": 241.66400000000255, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 3, "score_blue": 3}}
+{"datetime": "2021-06-19T06:33:15.906196Z", "matchtime": 244.67200000000355, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:33:26.681608Z", "matchtime": 261.6320000000092, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:33:31.506596Z", "matchtime": 268.1600000000114, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:33:45.417431Z", "matchtime": 287.48800000001785, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:33:57.605375Z", "matchtime": 305.2800000000238, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:34:03.390091Z", "matchtime": 314.6240000000269, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:34:06.005744Z", "matchtime": 318.01600000002804, "event": "GOAL", "payload": {"team_name": "Heroboys", "score_yellow": 4, "score_blue": 3}}
+{"datetime": "2021-06-19T06:34:08.327211Z", "matchtime": 321.02400000002905, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:34:16.948352Z", "matchtime": 336.1280000000341, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:34:18.537129Z", "matchtime": 338.94400000003503, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:34:25.188972Z", "matchtime": 347.90400000003626, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:34:31.871701Z", "matchtime": 357.8240000000352, "event": "GOAL", "payload": {"team_name": "Heroboys", "score_yellow": 5, "score_blue": 3}}
+{"datetime": "2021-06-19T06:34:33.697552Z", "matchtime": 360.83200000003484, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:34:52.918430Z", "matchtime": 394.04800000003115, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:35:07.890005Z", "matchtime": 417.92000000002855, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:35:09.040087Z", "matchtime": 419.5200000000284, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:35:20.722280Z", "matchtime": 439.2960000000262, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:35:25.269461Z", "matchtime": 445.2480000000255, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:35:25.586028Z", "matchtime": 445.6320000000255, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:35:26.006166Z", "matchtime": 446.2720000000254, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:35:44.704591Z", "matchtime": 477.69600000002197, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:36:00.425811Z", "matchtime": 505.024000000019, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:36:05.917868Z", "matchtime": 514.1120000000179, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:36:09.744409Z", "matchtime": 520.1280000000173, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:36:15.346884Z", "matchtime": 529.2160000000163, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:36:16.741775Z", "matchtime": 531.648000000016, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:36:35.869714Z", "matchtime": 565.1200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:36:39.255627Z", "matchtime": 571.2640000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:36:42.003128Z", "matchtime": 576.1920000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T06:36:44.346216Z", "matchtime": 580.2240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:36:56.952276Z", "matchtime": 599.4880000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:36:57.268001Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 5, "score_blue": 3, "team_name_yellow": "Heroboys", "team_name_blue": "allameh tabatabaei"}}

@@ -1,0 +1,59 @@
+{"datetime": "2021-06-19T05:52:52.516022Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:52:52.528233Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Team Orion", "team_name_blue": "Speshari", "match_id": "sim21_2_g7_r2_1", "halftime": 1}}
+{"datetime": "2021-06-19T05:52:56.834641Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:03.493877Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:04.825967Z", "matchtime": 33.47199999998145, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:53:09.452463Z", "matchtime": 45.31199999997489, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:15.873694Z", "matchtime": 60.7999999999663, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:22.656703Z", "matchtime": 75.51999999995815, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-19T05:53:24.314752Z", "matchtime": 78.52799999995648, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:53:32.545044Z", "matchtime": 93.63199999995311, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:38.671872Z", "matchtime": 104.76799999995683, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T05:53:40.904204Z", "matchtime": 108.73599999995815, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:49.391879Z", "matchtime": 123.8399999999632, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:53:55.107460Z", "matchtime": 132.15999999996598, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:53:59.630587Z", "matchtime": 138.94399999996824, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:54:07.998153Z", "matchtime": 154.04799999997329, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:54:27.851188Z", "matchtime": 187.71199999998453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:54:29.968595Z", "matchtime": 191.10399999998566, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-19T05:54:31.791651Z", "matchtime": 194.11199999998666, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:54:38.703184Z", "matchtime": 206.5279999999908, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-06-19T05:54:40.515545Z", "matchtime": 209.53599999999182, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:54:58.768016Z", "matchtime": 242.4320000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:55:07.146773Z", "matchtime": 257.53600000000785, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:55:11.896423Z", "matchtime": 266.1120000000107, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:55:15.691907Z", "matchtime": 272.6400000000129, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:55:24.618983Z", "matchtime": 287.74400000001793, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:55:30.349918Z", "matchtime": 297.66400000002125, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T05:55:38.273096Z", "matchtime": 311.74400000002595, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:55:39.758978Z", "matchtime": 314.3680000000268, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2021-06-19T05:55:41.499172Z", "matchtime": 317.37600000002783, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:55:51.573792Z", "matchtime": 335.4880000000339, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:56:03.684036Z", "matchtime": 357.12000000003525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:04.640462Z", "matchtime": 358.8480000000351, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:56:11.371859Z", "matchtime": 370.3680000000338, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:56:12.427368Z", "matchtime": 372.2240000000336, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:13.384137Z", "matchtime": 373.9520000000334, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:56:22.005290Z", "matchtime": 387.3280000000319, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:22.959463Z", "matchtime": 389.05600000003176, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:56:30.496446Z", "matchtime": 402.43200000003026, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:39.114025Z", "matchtime": 417.5360000000286, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:39.536150Z", "matchtime": 418.24000000002854, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:56:47.432284Z", "matchtime": 432.64000000002693, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:56:50.576336Z", "matchtime": 438.3360000000263, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T05:56:56.711177Z", "matchtime": 448.5120000000252, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:57:05.494559Z", "matchtime": 463.6160000000235, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:57:16.755027Z", "matchtime": 482.0480000000215, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:57:18.539012Z", "matchtime": 484.22400000002125, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:57:20.110887Z", "matchtime": 486.656000000021, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:57:37.417816Z", "matchtime": 517.4400000000176, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:57:44.997292Z", "matchtime": 531.072000000016, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:57:48.377656Z", "matchtime": 535.8720000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T05:57:52.405681Z", "matchtime": 540.9280000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:58:01.074593Z", "matchtime": 555.3920000000155, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2021-06-19T05:58:02.874273Z", "matchtime": 558.4000000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:58:11.497788Z", "matchtime": 573.5040000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:58:14.543101Z", "matchtime": 579.1360000000155, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2021-06-19T05:58:16.243805Z", "matchtime": 582.1440000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:58:24.535603Z", "matchtime": 597.2480000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:58:26.097772Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 6, "team_name_yellow": "Team Orion", "team_name_blue": "Speshari"}}
