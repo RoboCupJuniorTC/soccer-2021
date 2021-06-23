@@ -1,5 +1,12 @@
 # RCJ Soccer 2021
 
+General information:
+
+- [Schedule](pdfs/AnnouncementDisplays/JuniorSchedule-Soccer.pdf)
+
+- [Technical Challenges](technical-challenges.md)
+- [Newsletters](newsletters.md)
+
 ## SoccerSim Qualification
 
 - [Africa + Europe](qualification-africa-europe.md)
