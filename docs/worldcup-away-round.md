@@ -1,14 +1,16 @@
 # SoccerSim Group Phase - Away Round
 
+Download results in [PDF](pdfs/wc-away-round.pdf)
+
 ## Group 1
 
 |Team       |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |-----------|---------|------|------|-----|----|-------------|
-|Reset      |3 - 0 - 1|9     |60    |44   |1   |qualified    |
-|TFA 406    |3 - 0 - 1|9     |52    |28   |2   |qualified    |
-|Phase moon |3 - 0 - 1|9     |25    |4    |3   |             |
-|i-bots 4   |1 - 0 - 3|3     |31    |-13  |4   |             |
-|NewEtnaTeam|0 - 0 - 4|0     |17    |-63  |5   |             |
+|TFA 406    |7 - 0 - 1|21    |101   |54   |1   |qualified    |
+|Reset      |5 - 0 - 3|15    |109   |70   |2   |qualified    |
+|Phase moon |5 - 0 - 3|15    |60    |20   |3   |             |
+|i-bots 4   |3 - 0 - 5|9     |53    |-28  |4   |             |
+|NewEtnaTeam|0 - 0 - 8|0     |38    |-116 |5   |             |
 
 ### i-bots 4 vs. Phase Moon
 - **Final result:** (2 : 5)
@@ -73,12 +75,11 @@
 
 |Team               |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |-------------------|---------|------|------|-----|----|-------------|
-|F1_Formula         |3 - 1 - 0|10    |45    |30   |1   |qualified    |
-|Power-Technorobiran|3 - 0 - 1|9     |34    |11   |2   |qualified    |
-|XLC-Innovation     |2 - 1 - 1|7     |30    |18   |3   |             |
-|Robros             |1 - 0 - 3|3     |38    |-7   |4   |             |
-|musou japan        |0 - 0 - 4|0     |14    |-52  |5   |             |
-
+|F1_Formula         |6 - 1 - 1|19    |92    |63   |1   |qualified    |
+|XLC-Innovation     |6 - 1 - 1|19    |61    |43   |2   |qualified    |
+|Power-Technorobiran|4 - 0 - 4|12    |63    |6    |3   |             |
+|Robros             |3 - 0 - 5|9     |76    |-7   |4   |             |
+|musou japan        |0 - 0 - 8|0     |28    |-105 |5   |             |
 
 ### musou japan vs. power_technorobiran
 - **Final result:** (6 : 16)
@@ -143,11 +144,12 @@
 
 |Team                  |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |----------------------|---------|------|------|-----|----|-------------|
-|King-Kong             |4 - 0 - 0|12    |100   |88   |1   |qualified    |
-|ZTK Dubrovnik CRO team|2 - 1 - 1|7     |42    |13   |2   |qualified    |
-|Radiant               |2 - 1 - 1|7     |22    |-1   |3   |             |
-|Helix                 |1 - 0 - 3|3     |21    |-48  |4   |             |
-|DDStudio              |0 - 0 - 4|0     |16    |-52  |5   |             |
+|King-Kong             |8 - 0 - 0|24    |221   |197  |1   |qualified    |
+|ZTK Dubrovnik CRO team|5 - 1 - 2|16    |65    |3    |2   |qualified    |
+|Radiant               |4 - 1 - 3|13    |50    |-2   |3   |             |
+|Helix                 |2 - 0 - 6|6     |37    |-88  |4   |             |
+|DDStudio              |0 - 0 - 8|0     |31    |-110 |5   |             |
+
 
 ### Helix vs. Radiant
 - **Final result:** (3 : 7)
@@ -213,11 +215,11 @@
 
 |Team          |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |--------------|---------|------|------|-----|----|-------------|
-|i-bots 5      |3 - 1 - 0|10    |39    |29   |1   |qualified    |
-|FAST AND SMART|3 - 1 - 0|10    |29    |20   |2   |qualified    |
-|TX            |2 - 0 - 2|6     |24    |-2   |3   |             |
-|Griffins      |1 - 0 - 3|3     |36    |24   |4   |             |
-|Pooyesh       |0 - 0 - 4|0     |3     |-71  |5   |             |
+|FAST AND SMART|7 - 1 - 0|22    |69    |53   |1   |qualified    |
+|i-bots 5      |5 - 1 - 2|16    |90    |51   |2   |qualified    |
+|TX            |4 - 0 - 4|12    |55    |-1   |3   |             |
+|Griffins      |3 - 0 - 5|9     |72    |40   |4   |             |
+|Pooyesh       |0 - 0 - 8|0     |7     |-143 |5   |             |
 
 
 ### FAST AND SMART vs. Pooyesh
@@ -284,11 +286,12 @@
 
 |Team                 |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |---------------------|---------|------|------|-----|----|-------------|
-|Team Alpha           |4 - 0 - 0|12    |23    |17   |1   |qualified    |
-|Apex                 |3 - 0 - 1|9     |29    |16   |2   |qualified    |
-|Barcode_Technorobiran|2 - 0 - 2|6     |22    |4    |3   |             |
-|A.T.S.T              |1 - 0 - 3|3     |24    |-13  |4   |             |
-|i-bots 6             |0 - 0 - 4|0     |8     |-24  |5   |             |
+|Apex                 |7 - 0 - 1|21    |64    |45   |1   |qualified    |
+|Team Alpha           |7 - 0 - 1|21    |50    |37   |2   |qualified    |
+|Barcode_Technorobiran|3 - 0 - 5|9     |40    |-4   |3   |             |
+|A.T.S.T              |3 - 0 - 5|9     |56    |-10  |4   |             |
+|i-bots 6             |0 - 0 - 8|0     |13    |-68  |5   |             |
+
 
 ### Barcode_Technorobiran vs. i-bots 6
 - **Final result:** (9 : 1)
@@ -422,11 +425,12 @@
 
 |Team              |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |------------------|---------|------|------|-----|----|-------------|
-|moyasirobo        |4 - 0 - 0|12    |37    |27   |1   |qualified    |
-|Hero boys         |3 - 0 - 1|9     |26    |11   |2   |qualified    |
-|Allameh Tabatabaei|2 - 0 - 2|6     |37    |13   |3   |             |
-|Speshari          |1 - 0 - 3|3     |18    |-9   |4   |             |
-|Orion             |0 - 0 - 4|0     |5     |-42  |5   |             |
+|moyasirobo        |8 - 0 - 0|24    |64    |51   |1   |qualified    |
+|Hero boys         |5 - 1 - 2|16    |57    |27   |2   |qualified    |
+|Allameh Tabatabaei|3 - 1 - 4|10    |63    |22   |3   |             |
+|Speshari          |3 - 0 - 5|9     |37    |-8   |4   |             |
+|Orion             |0 - 0 - 8|0     |9     |-92  |5   |             |
+
 
 ### Speshari vs. Heroboys
 - **Final result:** (3 : 8)
@@ -489,12 +493,12 @@
 
 ## Group 8
 
-|Team                                      |W - D - L|Points|Scored|Diff.|Rank|Qualification|
-|------------------------------------------|---------|------|------|-----|----|-------------|
-|Williamstown High School's Fin3e s-t 0 - 0|         |9     |27    |19   |1   |qualified    |
-|NOVA                                      |2 - 0 - 1|6     |22    |10   |2   |qualified    |
-|i-bots 7                                  |1 - 0 - 2|3     |10    |-14  |3   |             |
-|RoboteamE5vos                             |0 - 0 - 3|0     |5     |-15  |4   |             |
+|Team                             |W - D - L|Points|Scored|Diff.|Rank|Qualification|
+|---------------------------------|---------|------|------|-----|----|-------------|
+|Williamstown High School's Finest|6 - 0 - 0|18    |48    |26   |1   |qualified    |
+|NOVA                             |4 - 0 - 2|12    |56    |35   |2   |qualified    |
+|RoboteamE5vos                    |1 - 0 - 5|3     |19    |-23  |3   |             |
+|i-bots 7                         |1 - 0 - 5|3     |22    |-38  |4   |             |
 
 
 ### i-bots 7 vs. NOVA
