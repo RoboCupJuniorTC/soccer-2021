@@ -1,0 +1,62 @@
+{"datetime": "2021-06-18T17:53:43.131584Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:53:43.144813Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 12, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "TFA 406", "team_name_blue": "NewEtnaTeam", "match_id": "sim21_2_g1_r2_2", "halftime": 2}}
+{"datetime": "2021-06-18T17:53:49.035763Z", "matchtime": 20.287999999988756, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:53:49.743039Z", "matchtime": 22.46399999998755, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 13, "score_blue": 2}}
+{"datetime": "2021-06-18T17:53:50.781705Z", "matchtime": 25.471999999985883, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:53:58.091593Z", "matchtime": 43.13599999997609, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T17:54:06.644515Z", "matchtime": 61.247999999966055, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:54:06.950577Z", "matchtime": 61.823999999965736, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T17:54:31.926088Z", "matchtime": 107.3919999999577, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T17:54:32.238310Z", "matchtime": 107.83999999995785, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T17:54:33.383892Z", "matchtime": 109.63199999995845, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:54:38.077827Z", "matchtime": 117.82399999996119, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 14, "score_blue": 2}}
+{"datetime": "2021-06-18T17:54:39.882598Z", "matchtime": 120.83199999996219, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:54:43.201156Z", "matchtime": 126.07999999996395, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 14, "score_blue": 3}}
+{"datetime": "2021-06-18T17:54:45.001337Z", "matchtime": 129.08799999996495, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:54:47.932825Z", "matchtime": 134.07999999996662, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 15, "score_blue": 3}}
+{"datetime": "2021-06-18T17:54:50.132332Z", "matchtime": 137.08799999996762, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:54:51.793125Z", "matchtime": 140.0319999999686, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 15, "score_blue": 4}}
+{"datetime": "2021-06-18T17:54:53.990066Z", "matchtime": 143.0399999999696, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:54:56.405182Z", "matchtime": 147.39199999997106, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 16, "score_blue": 4}}
+{"datetime": "2021-06-18T17:54:58.111105Z", "matchtime": 150.39999999997207, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:55:17.160855Z", "matchtime": 182.8479999999829, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T17:55:17.571098Z", "matchtime": 183.35999999998307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:55:23.854269Z", "matchtime": 194.1759999999867, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 17, "score_blue": 4}}
+{"datetime": "2021-06-18T17:55:25.562724Z", "matchtime": 197.1839999999877, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:55:35.572537Z", "matchtime": 214.14399999999335, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 18, "score_blue": 4}}
+{"datetime": "2021-06-18T17:55:37.378268Z", "matchtime": 217.15199999999436, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:56:07.487722Z", "matchtime": 263.3600000000098, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T17:56:10.211421Z", "matchtime": 267.8400000000113, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:56:19.202624Z", "matchtime": 282.3040000000161, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 19, "score_blue": 4}}
+{"datetime": "2021-06-18T17:56:21.231992Z", "matchtime": 285.3120000000171, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:56:23.750089Z", "matchtime": 289.92000000001866, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 19, "score_blue": 5}}
+{"datetime": "2021-06-18T17:56:25.636438Z", "matchtime": 292.92800000001967, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:56:30.218386Z", "matchtime": 300.60800000002223, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 20, "score_blue": 5}}
+{"datetime": "2021-06-18T17:56:31.908390Z", "matchtime": 303.61600000002323, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:56:39.397897Z", "matchtime": 315.90400000002734, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 21, "score_blue": 5}}
+{"datetime": "2021-06-18T17:56:41.107516Z", "matchtime": 318.91200000002834, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:56:47.900505Z", "matchtime": 330.8160000000323, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 22, "score_blue": 5}}
+{"datetime": "2021-06-18T17:56:50.214260Z", "matchtime": 333.8240000000333, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:57:03.099500Z", "matchtime": 355.13600000003544, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:57:10.203708Z", "matchtime": 367.10400000003415, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 23, "score_blue": 5}}
+{"datetime": "2021-06-18T17:57:12.096301Z", "matchtime": 370.11200000003385, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:57:25.462286Z", "matchtime": 391.6160000000315, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:57:27.959683Z", "matchtime": 396.22400000003097, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:57:35.148471Z", "matchtime": 409.3440000000295, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 23, "score_blue": 6}}
+{"datetime": "2021-06-18T17:57:37.052752Z", "matchtime": 412.3520000000292, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:57:39.858136Z", "matchtime": 416.83200000002864, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 24, "score_blue": 6}}
+{"datetime": "2021-06-18T17:57:42.177494Z", "matchtime": 419.84000000002834, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:57:54.083146Z", "matchtime": 439.0400000000262, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:57:54.508889Z", "matchtime": 439.68000000002615, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T17:57:56.725131Z", "matchtime": 443.52000000002573, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:57:58.523357Z", "matchtime": 446.7200000000254, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 24, "score_blue": 7}}
+{"datetime": "2021-06-18T17:58:00.820050Z", "matchtime": 449.7280000000251, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:58:17.874387Z", "matchtime": 476.16000000002214, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:58:27.006544Z", "matchtime": 492.73600000002034, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:58:42.716556Z", "matchtime": 515.3920000000178, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:59:00.436394Z", "matchtime": 541.8240000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:59:04.723867Z", "matchtime": 549.3120000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T17:59:09.528915Z", "matchtime": 557.6960000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:59:23.727542Z", "matchtime": 582.3360000000156, "event": "GOAL", "payload": {"team_name": "TFA 406", "score_yellow": 25, "score_blue": 7}}
+{"datetime": "2021-06-18T17:59:25.667528Z", "matchtime": 585.3440000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:59:34.326116Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 25, "score_blue": 7, "team_name_yellow": "TFA 406", "team_name_blue": "NewEtnaTeam"}}
