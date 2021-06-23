@@ -1,0 +1,46 @@
+{"datetime": "2021-06-18T19:12:48.494929Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:12:48.507883Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "musou japan", "team_name_blue": "power_technorobiran", "match_id": "sim21_2_g2_r1_1", "halftime": 1}}
+{"datetime": "2021-06-18T19:12:53.488981Z", "matchtime": 15.743999999991274, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T19:12:55.643364Z", "matchtime": 19.327999999989288, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T19:13:01.593145Z", "matchtime": 36.927999999979534, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T19:13:08.539216Z", "matchtime": 54.07999999997003, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T19:13:09.265795Z", "matchtime": 55.42399999996928, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T19:13:13.663120Z", "matchtime": 64.70399999996414, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T19:13:34.210961Z", "matchtime": 105.279999999957, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T19:13:40.474635Z", "matchtime": 116.60799999996078, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T19:13:42.273781Z", "matchtime": 119.61599999996179, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:13:50.235833Z", "matchtime": 133.31199999996636, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-18T19:13:51.935846Z", "matchtime": 136.31999999996737, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:14:00.637517Z", "matchtime": 151.4239999999724, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T19:14:07.805312Z", "matchtime": 164.41599999997675, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-06-18T19:14:09.607471Z", "matchtime": 167.42399999997775, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:14:26.328171Z", "matchtime": 192.83199999998624, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T19:14:28.191131Z", "matchtime": 195.58399999998716, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2021-06-18T19:14:30.189988Z", "matchtime": 198.59199999998816, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:14:35.376362Z", "matchtime": 207.80799999999124, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-06-18T19:14:37.182915Z", "matchtime": 210.81599999999224, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T19:14:50.310322Z", "matchtime": 233.4079999999998, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T19:14:50.838201Z", "matchtime": 234.3040000000001, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T19:14:51.575162Z", "matchtime": 235.39200000000045, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-06-18T19:14:53.765007Z", "matchtime": 238.40000000000146, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T19:14:56.714171Z", "matchtime": 243.07200000000302, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-06-18T19:14:59.173704Z", "matchtime": 246.08000000000402, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:15:08.290135Z", "matchtime": 259.90400000000864, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 3, "score_blue": 5}}
+{"datetime": "2021-06-18T19:15:10.010919Z", "matchtime": 262.91200000000964, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T19:15:28.208726Z", "matchtime": 293.2480000000198, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T19:15:31.693726Z", "matchtime": 298.9440000000217, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T19:15:32.967606Z", "matchtime": 301.1200000000224, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T19:15:38.012514Z", "matchtime": 310.20800000002544, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 3, "score_blue": 6}}
+{"datetime": "2021-06-18T19:15:39.717416Z", "matchtime": 313.21600000002644, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:15:56.822022Z", "matchtime": 342.01600000003606, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T19:16:35.158190Z", "matchtime": 406.3360000000298, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 3, "score_blue": 7}}
+{"datetime": "2021-06-18T19:16:37.054472Z", "matchtime": 409.3440000000295, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:16:45.409832Z", "matchtime": 424.44800000002783, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T19:16:47.502840Z", "matchtime": 428.0960000000274, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 3, "score_blue": 8}}
+{"datetime": "2021-06-18T19:16:49.307680Z", "matchtime": 431.1040000000271, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:17:29.320234Z", "matchtime": 497.4080000000198, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T19:18:13.127793Z", "matchtime": 572.0960000000156, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 4, "score_blue": 8}}
+{"datetime": "2021-06-18T19:18:14.934968Z", "matchtime": 575.1040000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T19:18:18.821349Z", "matchtime": 581.8240000000156, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 4, "score_blue": 9}}
+{"datetime": "2021-06-18T19:18:21.233901Z", "matchtime": 584.8320000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T19:18:29.746177Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 4, "score_blue": 9, "team_name_yellow": "musou japan", "team_name_blue": "power_technorobiran"}}

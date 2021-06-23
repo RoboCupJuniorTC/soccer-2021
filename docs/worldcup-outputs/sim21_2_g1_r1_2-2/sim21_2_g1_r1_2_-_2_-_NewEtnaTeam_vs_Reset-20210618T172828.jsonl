@@ -1,0 +1,55 @@
+{"datetime": "2021-06-18T17:28:30.019109Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:28:30.033886Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 13, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "Reset", "team_name_blue": "NewEtnaTeam", "match_id": "sim21_2_g1_r1_2", "halftime": 2}}
+{"datetime": "2021-06-18T17:28:34.107585Z", "matchtime": 15.67999999999131, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 14, "score_blue": 1}}
+{"datetime": "2021-06-18T17:28:35.123159Z", "matchtime": 18.687999999989643, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:28:40.308043Z", "matchtime": 31.423999999982584, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 14, "score_blue": 2}}
+{"datetime": "2021-06-18T17:28:41.952432Z", "matchtime": 34.43199999998092, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:28:51.327509Z", "matchtime": 55.42399999996928, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:28:53.311860Z", "matchtime": 59.711999999966906, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 15, "score_blue": 2}}
+{"datetime": "2021-06-18T17:28:55.101083Z", "matchtime": 62.71999999996524, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:29:05.794884Z", "matchtime": 82.43199999995431, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 16, "score_blue": 2}}
+{"datetime": "2021-06-18T17:29:07.605571Z", "matchtime": 85.43999999995265, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:29:16.035980Z", "matchtime": 100.67199999995546, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 17, "score_blue": 2}}
+{"datetime": "2021-06-18T17:29:17.935350Z", "matchtime": 103.67999999995646, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:29:29.688239Z", "matchtime": 124.7359999999635, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 18, "score_blue": 2}}
+{"datetime": "2021-06-18T17:29:31.397124Z", "matchtime": 127.7439999999645, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:29:51.834495Z", "matchtime": 162.43199999997609, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 19, "score_blue": 2}}
+{"datetime": "2021-06-18T17:29:53.631781Z", "matchtime": 165.4399999999771, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:30:06.050645Z", "matchtime": 184.8959999999836, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:30:15.318545Z", "matchtime": 201.79199999998923, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 20, "score_blue": 2}}
+{"datetime": "2021-06-18T17:30:17.011034Z", "matchtime": 204.79999999999023, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:30:26.728491Z", "matchtime": 221.82399999999592, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 21, "score_blue": 2}}
+{"datetime": "2021-06-18T17:30:28.523047Z", "matchtime": 224.83199999999692, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:30:41.953616Z", "matchtime": 245.05600000000368, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:30:42.484356Z", "matchtime": 246.016000000004, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T17:30:47.497376Z", "matchtime": 255.10400000000703, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 22, "score_blue": 2}}
+{"datetime": "2021-06-18T17:30:49.702137Z", "matchtime": 258.11200000000804, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:30:57.141974Z", "matchtime": 271.4240000000125, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 23, "score_blue": 2}}
+{"datetime": "2021-06-18T17:30:58.839427Z", "matchtime": 274.4320000000135, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:31:10.632460Z", "matchtime": 290.5600000000189, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:31:30.078733Z", "matchtime": 319.29600000002847, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:31:33.639736Z", "matchtime": 325.4400000000305, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:31:40.355443Z", "matchtime": 337.0240000000344, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:31:55.910036Z", "matchtime": 365.50400000003435, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 24, "score_blue": 2}}
+{"datetime": "2021-06-18T17:31:57.607208Z", "matchtime": 368.512000000034, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:32:06.174190Z", "matchtime": 382.0800000000325, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:32:11.235448Z", "matchtime": 391.2960000000315, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 25, "score_blue": 2}}
+{"datetime": "2021-06-18T17:32:13.231621Z", "matchtime": 394.3040000000311, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:32:23.799049Z", "matchtime": 413.824000000029, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:32:34.775271Z", "matchtime": 434.1120000000268, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:32:38.482008Z", "matchtime": 440.896000000026, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 26, "score_blue": 2}}
+{"datetime": "2021-06-18T17:32:40.282428Z", "matchtime": 443.9040000000257, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:32:46.740478Z", "matchtime": 455.5520000000244, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 27, "score_blue": 2}}
+{"datetime": "2021-06-18T17:32:48.432345Z", "matchtime": 458.56000000002405, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:33:00.336737Z", "matchtime": 478.0160000000219, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 27, "score_blue": 3}}
+{"datetime": "2021-06-18T17:33:02.129850Z", "matchtime": 481.0240000000216, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:33:14.217757Z", "matchtime": 503.0400000000192, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 28, "score_blue": 3}}
+{"datetime": "2021-06-18T17:33:16.034748Z", "matchtime": 506.0480000000189, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:33:25.239803Z", "matchtime": 522.560000000017, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:33:49.299278Z", "matchtime": 564.0960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T17:33:49.829095Z", "matchtime": 564.9920000000155, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T17:33:57.986278Z", "matchtime": 578.5600000000156, "event": "GOAL", "payload": {"team_name": "NewEtnaTeam", "score_yellow": 28, "score_blue": 4}}
+{"datetime": "2021-06-18T17:33:59.791427Z", "matchtime": 581.5680000000156, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T17:34:08.271498Z", "matchtime": 596.9280000000156, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 29, "score_blue": 4}}
+{"datetime": "2021-06-18T17:34:09.975637Z", "matchtime": 599.9360000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T17:34:10.074503Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 29, "score_blue": 4, "team_name_yellow": "Reset", "team_name_blue": "NewEtnaTeam"}}

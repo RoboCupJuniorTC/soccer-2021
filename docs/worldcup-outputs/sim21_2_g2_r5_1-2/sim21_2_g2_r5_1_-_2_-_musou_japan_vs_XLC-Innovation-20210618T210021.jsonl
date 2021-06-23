@@ -1,0 +1,37 @@
+{"datetime": "2021-06-18T21:00:23.122053Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:00:23.134216Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 6, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "XLC-Innovation", "team_name_blue": "musou japan", "match_id": "sim21_2_g2_r5_1", "halftime": 2}}
+{"datetime": "2021-06-18T21:00:36.099210Z", "matchtime": 34.04799999998113, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T21:00:42.745062Z", "matchtime": 44.35199999997542, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:00:57.433855Z", "matchtime": 66.81599999996297, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:01:08.016050Z", "matchtime": 91.26399999995232, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 7, "score_blue": 0}}
+{"datetime": "2021-06-18T21:01:09.471456Z", "matchtime": 94.27199999995332, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:01:19.221706Z", "matchtime": 111.10399999995894, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:01:23.997690Z", "matchtime": 119.23199999996166, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 8, "score_blue": 0}}
+{"datetime": "2021-06-18T21:01:25.910246Z", "matchtime": 122.23999999996266, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:02:01.061403Z", "matchtime": 178.3679999999814, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:02:03.378369Z", "matchtime": 181.0559999999823, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:02:09.069714Z", "matchtime": 187.6479999999845, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 9, "score_blue": 0}}
+{"datetime": "2021-06-18T21:02:11.294211Z", "matchtime": 190.6559999999855, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:02:42.427203Z", "matchtime": 234.68800000000022, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:02:47.353050Z", "matchtime": 243.008000000003, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 10, "score_blue": 0}}
+{"datetime": "2021-06-18T21:02:49.053100Z", "matchtime": 246.016000000004, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:02:56.500306Z", "matchtime": 259.07200000000836, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 11, "score_blue": 0}}
+{"datetime": "2021-06-18T21:02:58.401570Z", "matchtime": 262.08000000000936, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:03:10.371842Z", "matchtime": 279.10400000001505, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:03:11.305130Z", "matchtime": 280.4480000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T21:03:31.278418Z", "matchtime": 309.69600000002526, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T21:03:37.688536Z", "matchtime": 318.33600000002815, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:04:04.301305Z", "matchtime": 360.0000000000349, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:04:10.246292Z", "matchtime": 370.11200000003385, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:04:16.934212Z", "matchtime": 378.8160000000329, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 12, "score_blue": 0}}
+{"datetime": "2021-06-18T21:04:19.138321Z", "matchtime": 381.8240000000325, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:04:28.957876Z", "matchtime": 396.9920000000309, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:04:31.057953Z", "matchtime": 400.64000000003045, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T21:04:33.792044Z", "matchtime": 405.5040000000299, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 13, "score_blue": 0}}
+{"datetime": "2021-06-18T21:04:35.681725Z", "matchtime": 408.5120000000296, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:04:47.187741Z", "matchtime": 425.2800000000277, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:05:21.313343Z", "matchtime": 472.89600000002247, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:05:46.163225Z", "matchtime": 507.5840000000187, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:06:17.660497Z", "matchtime": 560.5760000000156, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 14, "score_blue": 0}}
+{"datetime": "2021-06-18T21:06:19.379492Z", "matchtime": 563.5840000000155, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:06:43.618432Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 14, "score_blue": 0, "team_name_yellow": "XLC-Innovation", "team_name_blue": "musou japan"}}

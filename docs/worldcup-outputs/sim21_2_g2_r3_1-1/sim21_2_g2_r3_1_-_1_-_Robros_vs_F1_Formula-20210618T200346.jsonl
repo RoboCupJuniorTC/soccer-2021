@@ -1,0 +1,44 @@
+{"datetime": "2021-06-18T20:03:47.975983Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:03:47.989709Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "F1_Formula", "team_name_blue": "Robros", "match_id": "sim21_2_g2_r3_1", "halftime": 1}}
+{"datetime": "2021-06-18T20:03:58.524160Z", "matchtime": 23.74399999998684, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:04:09.244846Z", "matchtime": 45.31199999997489, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:04:16.604085Z", "matchtime": 61.56799999996588, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:04:18.148293Z", "matchtime": 64.89599999996403, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-18T20:04:19.501453Z", "matchtime": 67.90399999996237, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:04:43.367452Z", "matchtime": 109.82399999995852, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T20:04:43.680253Z", "matchtime": 110.33599999995869, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:04:43.996621Z", "matchtime": 110.84799999995886, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T20:04:45.682271Z", "matchtime": 113.79199999995984, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-18T20:04:47.402222Z", "matchtime": 116.79999999996085, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:05:07.530342Z", "matchtime": 145.9839999999706, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 3, "score_blue": 0}}
+{"datetime": "2021-06-18T20:05:09.440426Z", "matchtime": 148.9919999999716, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:05:14.768479Z", "matchtime": 157.43999999997442, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 1}}
+{"datetime": "2021-06-18T20:05:16.866660Z", "matchtime": 160.44799999997542, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:05:38.930149Z", "matchtime": 198.143999999988, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T20:06:08.038200Z", "matchtime": 247.87200000000462, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 2}}
+{"datetime": "2021-06-18T20:06:10.041003Z", "matchtime": 250.88000000000562, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:06:13.084332Z", "matchtime": 256.32000000000744, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 3}}
+{"datetime": "2021-06-18T20:06:14.892283Z", "matchtime": 259.32800000000844, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:06:27.460899Z", "matchtime": 275.52000000001385, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:06:30.489273Z", "matchtime": 279.74400000001526, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 4, "score_blue": 3}}
+{"datetime": "2021-06-18T20:06:32.190314Z", "matchtime": 282.75200000001627, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:06:40.491572Z", "matchtime": 297.8560000000213, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T20:06:45.194464Z", "matchtime": 306.4960000000242, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 5, "score_blue": 3}}
+{"datetime": "2021-06-18T20:06:46.910299Z", "matchtime": 309.5040000000252, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:07:10.479855Z", "matchtime": 344.0640000000367, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T20:07:13.904018Z", "matchtime": 348.16000000003623, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:07:21.281778Z", "matchtime": 360.70400000003485, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 6, "score_blue": 3}}
+{"datetime": "2021-06-18T20:07:23.008040Z", "matchtime": 363.71200000003455, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:07:30.843125Z", "matchtime": 378.04800000003297, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 7, "score_blue": 3}}
+{"datetime": "2021-06-18T20:07:32.550571Z", "matchtime": 381.0560000000326, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:07:40.851786Z", "matchtime": 396.16000000003095, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T20:07:49.184380Z", "matchtime": 409.7920000000295, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:07:59.732723Z", "matchtime": 427.90400000002745, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 8, "score_blue": 3}}
+{"datetime": "2021-06-18T20:08:02.572442Z", "matchtime": 430.9120000000271, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:08:07.316479Z", "matchtime": 439.23200000002623, "event": "GOAL", "payload": {"team_name": "F1_Formula", "score_yellow": 9, "score_blue": 3}}
+{"datetime": "2021-06-18T20:08:09.037456Z", "matchtime": 442.2400000000259, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:08:21.510544Z", "matchtime": 463.8080000000235, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T20:08:45.224291Z", "matchtime": 499.84000000001953, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:09:18.509105Z", "matchtime": 556.6080000000155, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T20:09:27.800262Z", "matchtime": 569.7280000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:09:46.549827Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 9, "score_blue": 3, "team_name_yellow": "F1_Formula", "team_name_blue": "Robros"}}

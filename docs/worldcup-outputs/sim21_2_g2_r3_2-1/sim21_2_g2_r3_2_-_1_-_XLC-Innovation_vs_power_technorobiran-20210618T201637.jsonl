@@ -1,0 +1,33 @@
+{"datetime": "2021-06-18T20:16:39.219090Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:16:39.232838Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "power_technorobiran", "team_name_blue": "XLC-Innovation", "match_id": "sim21_2_g2_r3_2", "halftime": 1}}
+{"datetime": "2021-06-18T20:16:46.597499Z", "matchtime": 21.75999999998794, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T20:16:46.701248Z", "matchtime": 21.951999999987834, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:16:54.652195Z", "matchtime": 41.40799999997705, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:17:06.139564Z", "matchtime": 70.7199999999608, "event": "GOAL", "payload": {"team_name": "XLC-Innovation", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T20:17:07.594039Z", "matchtime": 73.72799999995914, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:17:23.976471Z", "matchtime": 104.95999999995689, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-18T20:17:26.540127Z", "matchtime": 107.9679999999579, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:17:45.789713Z", "matchtime": 139.64799999996848, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:18:27.988714Z", "matchtime": 209.66399999999186, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:18:50.646162Z", "matchtime": 247.42400000000447, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:19:02.102654Z", "matchtime": 264.5120000000102, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:19:17.433243Z", "matchtime": 291.32800000001913, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:19:26.673357Z", "matchtime": 307.7760000000246, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T20:19:33.295874Z", "matchtime": 316.80000000002764, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:19:43.831014Z", "matchtime": 333.3760000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:19:57.350735Z", "matchtime": 356.6080000000353, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T20:20:00.224463Z", "matchtime": 360.1920000000349, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:20:07.764783Z", "matchtime": 373.63200000003343, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T20:20:08.380288Z", "matchtime": 374.3360000000333, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T20:20:21.537759Z", "matchtime": 394.24000000003116, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:20:36.539394Z", "matchtime": 417.02400000002865, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:20:49.711966Z", "matchtime": 437.12000000002644, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:21:06.589908Z", "matchtime": 463.4240000000235, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:21:24.715373Z", "matchtime": 494.20800000002015, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:21:34.676029Z", "matchtime": 510.72000000001833, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T20:21:37.117989Z", "matchtime": 513.4080000000181, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:21:56.304512Z", "matchtime": 546.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:22:12.981423Z", "matchtime": 574.4640000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:22:23.123908Z", "matchtime": 590.9760000000156, "event": "GOAL", "payload": {"team_name": "power_technorobiran", "score_yellow": 2, "score_blue": 1}}
+{"datetime": "2021-06-18T20:22:25.894292Z", "matchtime": 593.9840000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:22:29.335343Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 1, "team_name_yellow": "power_technorobiran", "team_name_blue": "XLC-Innovation"}}
