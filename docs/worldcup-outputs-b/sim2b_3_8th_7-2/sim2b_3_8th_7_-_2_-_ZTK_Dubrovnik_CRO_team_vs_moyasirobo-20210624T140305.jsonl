@@ -1,0 +1,38 @@
+{"datetime": "2021-06-24T14:03:07.066145Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:03:07.072166Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 5, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "moyasirobo", "team_name_blue": "ZTK Dubrovnik CRO team", "match_id": "sim2b_3_8th_7", "halftime": 2}}
+{"datetime": "2021-06-24T14:03:09.752344Z", "matchtime": 9.59999999999468, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 6, "score_blue": 2}}
+{"datetime": "2021-06-24T14:03:10.893548Z", "matchtime": 12.607999999993012, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:03:19.524614Z", "matchtime": 31.743999999982407, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:03:30.870430Z", "matchtime": 51.83999999997127, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:03:51.353463Z", "matchtime": 92.47999999995272, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:03:51.666006Z", "matchtime": 93.05599999995292, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 6, "score_blue": 3}}
+{"datetime": "2021-06-24T14:03:53.363854Z", "matchtime": 96.06399999995392, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:04:22.852318Z", "matchtime": 139.26399999996835, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:04:42.297483Z", "matchtime": 166.46399999997743, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 6, "score_blue": 4}}
+{"datetime": "2021-06-24T14:04:44.526182Z", "matchtime": 169.47199999997844, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:04:59.194885Z", "matchtime": 191.35999999998575, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T14:05:00.148212Z", "matchtime": 192.89599999998626, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 7, "score_blue": 4}}
+{"datetime": "2021-06-24T14:05:02.084719Z", "matchtime": 195.90399999998726, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:05:32.989622Z", "matchtime": 241.8560000000026, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:05:59.157748Z", "matchtime": 283.84000000001663, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-24T14:06:01.498313Z", "matchtime": 287.6160000000179, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 8, "score_blue": 4}}
+{"datetime": "2021-06-24T14:06:03.332573Z", "matchtime": 290.6240000000189, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:06:18.113630Z", "matchtime": 312.89600000002633, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 9, "score_blue": 4}}
+{"datetime": "2021-06-24T14:06:20.359297Z", "matchtime": 315.90400000002734, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:06:33.540272Z", "matchtime": 332.35200000003283, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:07:02.707268Z", "matchtime": 376.64000000003307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:07:21.437526Z", "matchtime": 405.37600000002993, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:07:23.726398Z", "matchtime": 409.4720000000295, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:07:36.910123Z", "matchtime": 427.2640000000275, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:07:46.320866Z", "matchtime": 442.7520000000258, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 10, "score_blue": 4}}
+{"datetime": "2021-06-24T14:07:48.135568Z", "matchtime": 445.76000000002546, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:07:59.182962Z", "matchtime": 461.76000000002375, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:08:12.021312Z", "matchtime": 484.54400000002124, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 10, "score_blue": 5}}
+{"datetime": "2021-06-24T14:08:13.950868Z", "matchtime": 487.5520000000209, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:08:18.742898Z", "matchtime": 495.93600000001993, "event": "GOAL", "payload": {"team_name": "ZTK Dubrovnik CRO team", "score_yellow": 10, "score_blue": 6}}
+{"datetime": "2021-06-24T14:08:20.571899Z", "matchtime": 498.9440000000196, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:08:45.950424Z", "matchtime": 534.4640000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:09:13.937384Z", "matchtime": 578.2400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:09:22.387243Z", "matchtime": 587.8400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:09:25.080782Z", "matchtime": 592.2560000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:09:29.639414Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 10, "score_blue": 6, "team_name_yellow": "moyasirobo", "team_name_blue": "ZTK Dubrovnik CRO team"}}

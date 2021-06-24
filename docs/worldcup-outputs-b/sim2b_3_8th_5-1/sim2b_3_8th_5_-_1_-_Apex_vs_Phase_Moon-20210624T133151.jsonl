@@ -1,0 +1,35 @@
+{"datetime": "2021-06-24T13:31:52.657335Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T13:31:52.663393Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Phase Moon", "team_name_blue": "Apex", "match_id": "sim2b_3_8th_5", "halftime": 1}}
+{"datetime": "2021-06-24T13:31:56.887339Z", "matchtime": 12.799999999992906, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:32:04.225544Z", "matchtime": 28.159999999984393, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-24T13:32:06.085795Z", "matchtime": 31.167999999982726, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T13:32:13.776396Z", "matchtime": 48.31999999997322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:32:16.557094Z", "matchtime": 54.97599999996953, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-24T13:32:18.430434Z", "matchtime": 57.983999999967864, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T13:32:28.718363Z", "matchtime": 76.99199999995733, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:32:52.466118Z", "matchtime": 120.12799999996196, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T13:32:53.420091Z", "matchtime": 121.72799999996249, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-24T13:33:00.383978Z", "matchtime": 131.0719999999656, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:33:11.896045Z", "matchtime": 150.27199999997202, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:33:26.474823Z", "matchtime": 174.27199999998004, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:33:40.526474Z", "matchtime": 197.75999999998788, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:33:52.124316Z", "matchtime": 218.04799999999466, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:34:15.697985Z", "matchtime": 257.85600000000795, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:34:29.681260Z", "matchtime": 282.3040000000161, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:34:37.557910Z", "matchtime": 296.2560000000208, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:34:50.992871Z", "matchtime": 318.7840000000283, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:34:59.012499Z", "matchtime": 333.31200000003315, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-24T13:35:00.711045Z", "matchtime": 336.32000000003416, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T13:35:10.846379Z", "matchtime": 353.9200000000356, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:35:27.362548Z", "matchtime": 383.5520000000323, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:35:46.315081Z", "matchtime": 415.36000000002883, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:36:03.283700Z", "matchtime": 442.3040000000259, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:36:06.407843Z", "matchtime": 448.0640000000252, "event": "GOAL", "payload": {"team_name": "Phase Moon", "score_yellow": 2, "score_blue": 2}}
+{"datetime": "2021-06-24T13:36:08.212847Z", "matchtime": 451.0720000000249, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T13:36:18.244379Z", "matchtime": 467.96800000002304, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:36:33.139753Z", "matchtime": 494.0160000000202, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:36:41.141460Z", "matchtime": 508.2880000000186, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:36:48.275660Z", "matchtime": 521.3440000000171, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:37:07.290750Z", "matchtime": 554.4960000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:37:22.527815Z", "matchtime": 580.8640000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:37:33.627599Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 2, "team_name_yellow": "Phase Moon", "team_name_blue": "Apex"}}

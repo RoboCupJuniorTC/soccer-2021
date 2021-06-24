@@ -1,0 +1,29 @@
+{"datetime": "2021-06-24T13:44:14.121017Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T13:44:14.126886Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "XLC-Innovation", "team_name_blue": "GJH_team", "match_id": "sim2b_3_8th_6", "halftime": 1}}
+{"datetime": "2021-06-24T13:44:18.981572Z", "matchtime": 13.503999999992516, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:44:28.002431Z", "matchtime": 34.04799999998113, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:44:35.359049Z", "matchtime": 49.791999999972404, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:44:47.443131Z", "matchtime": 76.92799999995736, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:45:05.505132Z", "matchtime": 115.13599999996029, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:45:19.550791Z", "matchtime": 143.67999999996982, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:45:44.158977Z", "matchtime": 190.3359999999854, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:45:51.732731Z", "matchtime": 204.35199999999008, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:46:04.324472Z", "matchtime": 225.15199999999703, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:46:16.239931Z", "matchtime": 245.88800000000396, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T13:46:19.401676Z", "matchtime": 251.00800000000567, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:46:19.713481Z", "matchtime": 251.52000000000584, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T13:46:31.709666Z", "matchtime": 271.1680000000124, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:46:42.433858Z", "matchtime": 287.2960000000178, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:46:54.491941Z", "matchtime": 306.11200000002407, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:47:05.802208Z", "matchtime": 326.848000000031, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-24T13:47:07.519123Z", "matchtime": 329.856000000032, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T13:47:16.128501Z", "matchtime": 342.2080000000361, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:47:25.762728Z", "matchtime": 357.69600000003516, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:47:49.876163Z", "matchtime": 399.42400000003056, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:47:58.681895Z", "matchtime": 414.5920000000289, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:48:31.124603Z", "matchtime": 469.8880000000228, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:49:14.174893Z", "matchtime": 546.0480000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:49:26.627629Z", "matchtime": 566.1440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:49:36.487679Z", "matchtime": 582.4000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:49:47.443679Z", "matchtime": 599.4240000000157, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T13:49:47.754524Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 1, "team_name_yellow": "XLC-Innovation", "team_name_blue": "GJH_team"}}

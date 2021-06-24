@@ -1,0 +1,61 @@
+{"datetime": "2021-06-24T14:16:42.126221Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:16:42.132439Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 6, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "TX", "match_id": "sim2b_3_8th_8", "halftime": 2}}
+{"datetime": "2021-06-24T14:16:54.496024Z", "matchtime": 43.26399999997602, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 7, "score_blue": 1}}
+{"datetime": "2021-06-24T14:16:55.643573Z", "matchtime": 46.271999999974355, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:17:04.807856Z", "matchtime": 64.44799999996428, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:17:05.644855Z", "matchtime": 66.36799999996322, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:17:18.212418Z", "matchtime": 91.26399999995232, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:17:18.827454Z", "matchtime": 92.22399999995264, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T14:17:19.901400Z", "matchtime": 94.27199999995332, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:17:23.970380Z", "matchtime": 101.31199999995567, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-24T14:17:41.336514Z", "matchtime": 125.0559999999636, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T14:17:41.658884Z", "matchtime": 125.37599999996371, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:17:42.817389Z", "matchtime": 126.78399999996418, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:17:43.236758Z", "matchtime": 127.35999999996437, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 7, "score_blue": 2}}
+{"datetime": "2021-06-24T14:17:45.177419Z", "matchtime": 130.36799999996538, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:18:09.599076Z", "matchtime": 169.9199999999786, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 8, "score_blue": 2}}
+{"datetime": "2021-06-24T14:18:11.736605Z", "matchtime": 172.9279999999796, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:18:22.222458Z", "matchtime": 188.8639999999849, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:18:23.711898Z", "matchtime": 191.2319999999857, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:18:26.253300Z", "matchtime": 194.62399999998684, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T14:18:29.185053Z", "matchtime": 198.3999999999881, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:18:32.541638Z", "matchtime": 203.13599999998968, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:18:34.667197Z", "matchtime": 206.39999999999077, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:18:41.906259Z", "matchtime": 217.5999999999945, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 9, "score_blue": 2}}
+{"datetime": "2021-06-24T14:18:44.430800Z", "matchtime": 220.6079999999955, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:18:58.663917Z", "matchtime": 238.33600000000143, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:18:59.197670Z", "matchtime": 239.04000000000167, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:18:59.396897Z", "matchtime": 239.23200000000173, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:19:13.699445Z", "matchtime": 259.64800000000855, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:19:15.052038Z", "matchtime": 261.44000000000915, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:19:28.528286Z", "matchtime": 275.968000000014, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 9, "score_blue": 3}}
+{"datetime": "2021-06-24T14:19:31.086494Z", "matchtime": 278.976000000015, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:19:33.847912Z", "matchtime": 283.2000000000164, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 10, "score_blue": 3}}
+{"datetime": "2021-06-24T14:19:35.897990Z", "matchtime": 286.2080000000174, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:19:46.516411Z", "matchtime": 303.4880000000232, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 11, "score_blue": 3}}
+{"datetime": "2021-06-24T14:19:48.651303Z", "matchtime": 306.4960000000242, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:19:59.126203Z", "matchtime": 322.81600000002965, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:20:17.418928Z", "matchtime": 346.56000000003644, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:20:17.630626Z", "matchtime": 346.8800000000364, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:20:19.223070Z", "matchtime": 349.37600000003613, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T14:20:19.747763Z", "matchtime": 350.14400000003604, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:20:31.866043Z", "matchtime": 367.4880000000341, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:20:42.826292Z", "matchtime": 384.0000000000323, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:20:44.846758Z", "matchtime": 386.49600000003204, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:20:47.109937Z", "matchtime": 389.2480000000317, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 11, "score_blue": 4}}
+{"datetime": "2021-06-24T14:20:49.224807Z", "matchtime": 392.25600000003135, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:20:56.753207Z", "matchtime": 404.92800000003, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 12, "score_blue": 4}}
+{"datetime": "2021-06-24T14:20:58.610403Z", "matchtime": 407.93600000002965, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:21:10.259694Z", "matchtime": 426.17600000002767, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:21:30.460330Z", "matchtime": 456.06400000002435, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:21:31.407308Z", "matchtime": 457.53600000002416, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:21:33.632325Z", "matchtime": 460.99200000002384, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:21:54.918689Z", "matchtime": 489.92000000002065, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:21:55.444266Z", "matchtime": 490.68800000002057, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:21:55.966889Z", "matchtime": 491.52000000002045, "event": "GOAL", "payload": {"team_name": "TX", "score_yellow": 12, "score_blue": 5}}
+{"datetime": "2021-06-24T14:21:57.806888Z", "matchtime": 494.52800000002014, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:22:14.648703Z", "matchtime": 520.5120000000172, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:22:29.480232Z", "matchtime": 545.8560000000156, "event": "GOAL", "payload": {"team_name": "Williamstown High School's Finest", "score_yellow": 13, "score_blue": 5}}
+{"datetime": "2021-06-24T14:22:31.417623Z", "matchtime": 548.8640000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:22:44.319753Z", "matchtime": 568.3200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T14:23:04.431937Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 13, "score_blue": 5, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "TX"}}

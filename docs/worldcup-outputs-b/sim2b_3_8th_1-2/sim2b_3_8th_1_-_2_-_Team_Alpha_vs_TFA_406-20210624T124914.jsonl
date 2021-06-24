@@ -1,0 +1,29 @@
+{"datetime": "2021-06-24T12:49:15.807833Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T12:49:15.814300Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 2, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "TFA 406", "team_name_blue": "Team Alpha", "match_id": "sim2b_3_8th_1", "halftime": 2}}
+{"datetime": "2021-06-24T12:49:34.326293Z", "matchtime": 56.95999999996843, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T12:49:37.838030Z", "matchtime": 61.31199999996602, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:49:39.370424Z", "matchtime": 65.02399999996396, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 2, "score_blue": 3}}
+{"datetime": "2021-06-24T12:49:40.718504Z", "matchtime": 68.0319999999623, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T12:50:18.299670Z", "matchtime": 148.9919999999716, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:50:28.527582Z", "matchtime": 166.14399999997732, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:50:48.042523Z", "matchtime": 202.04799999998932, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:50:52.342866Z", "matchtime": 209.7919999999919, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-06-24T12:50:54.081012Z", "matchtime": 212.7999999999929, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T12:51:18.782932Z", "matchtime": 253.88800000000663, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T12:51:28.710397Z", "matchtime": 270.78400000001227, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:51:30.518628Z", "matchtime": 274.1120000000134, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-06-24T12:51:32.231960Z", "matchtime": 277.1200000000144, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T12:51:40.599486Z", "matchtime": 290.3040000000188, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:52:04.678102Z", "matchtime": 332.99200000003304, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T12:52:05.001931Z", "matchtime": 333.56800000003324, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T12:52:25.396056Z", "matchtime": 368.76800000003396, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T12:52:44.003809Z", "matchtime": 398.2080000000307, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:52:59.053231Z", "matchtime": 419.9680000000283, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T12:53:13.205506Z", "matchtime": 443.3280000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-24T12:53:14.906157Z", "matchtime": 446.08000000002545, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:53:15.428129Z", "matchtime": 446.9120000000254, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T12:53:15.747883Z", "matchtime": 447.4880000000253, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T12:53:45.724132Z", "matchtime": 497.92000000001974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:54:03.002093Z", "matchtime": 525.5680000000167, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:54:15.240251Z", "matchtime": 546.6880000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T12:54:46.460787Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 5, "team_name_yellow": "TFA 406", "team_name_blue": "Team Alpha"}}
