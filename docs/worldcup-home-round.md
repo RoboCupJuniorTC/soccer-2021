@@ -6,29 +6,16 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 |Team       |W - D - L|Points|Scored|Diff.|Rank|
 |-----------|---------|------|------|-----|----|
-|TFA 406    |4 - 0 - 0|12    |49    |26   |1   |
-|Reset      |2 - 0 - 2|6     |49    |26   |2   |
-|Phase moon |2 - 0 - 2|6     |35    |16   |3   |
-|i-bots 4   |2 - 0 - 2|6     |22    |-15  |4   |
-|NewEtnaTeam|0 - 0 - 4|0     |21    |-53  |5   |
-
-
-### Phase Moon vs. i-bots 4
-- **Final result:** (2 : 4)
-- [First half](worldcup-outputs/sim21_1_g1_r1_1-1/sim21_1_g1_r1_1_-_1_-_i-bots_4_vs_Phase_Moon-20210618T001114-new.html) (1 : 3)
-- [Second half](worldcup-outputs/sim21_1_g1_r1_1-2/sim21_1_g1_r1_1_-_2_-_Phase_Moon_vs_i-bots_4-20210618T001704-new.html) (1 : 1)
+|TFA 406    |3 - 0 - 0|9     |40    |20   |1   |
+|Phase moon |2 - 0 - 1|6     |33    |18   |2   |
+|Reset      |1 - 0 - 2|3     |25    |5    |3   |
+|NewEtnaTeam|0 - 0 - 3|0     |19    |-43  |4   |
 
 
 ### Reset vs. NewEtnaTeam
 - **Final result:** (18 : 3)
 - [First half](worldcup-outputs/sim21_1_g1_r1_2-1/sim21_1_g1_r1_2_-_1_-_NewEtnaTeam_vs_Reset-20210618T002304-new.html) (8 : 1)
 - [Second half](worldcup-outputs/sim21_1_g1_r1_2-2/sim21_1_g1_r1_2_-_2_-_Reset_vs_NewEtnaTeam-20210618T002907-new.html) (10 : 2)
-
-
-### i-bots 4 vs. Reset
-- **Final result:** (3 : 24)
-- [First half](worldcup-outputs/sim21_1_g1_r2_1-1/sim21_1_g1_r2_1_-_1_-_Reset_vs_i-bots_4-20210618T003506-new.html) (0 : 21)
-- [Second half](worldcup-outputs/sim21_1_g1_r2_1-2/sim21_1_g1_r2_1_-_2_-_i-bots_4_vs_Reset-20210618T004214-new.html) (3 : 3)
 
 
 ### TFA 406 vs. NewEtnaTeam
@@ -49,22 +36,10 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 - [Second half](worldcup-outputs/sim21_1_g1_r3_2-2/sim21_1_g1_r3_2_-_2_-_NewEtnaTeam_vs_Phase_Moon-20210618T011854-new.html) (1 : 8)
 
 
-### i-bots 4 vs. TFA 406
-- **Final result:** (3 : 9)
-- [First half](worldcup-outputs/sim21_1_g1_r4_1-1/sim21_1_g1_r4_1_-_1_-_TFA_406_vs_i-bots_4-20210618T012450-new.html) (2 : 5)
-- [Second half](worldcup-outputs/sim21_1_g1_r4_1-2/sim21_1_g1_r4_1_-_2_-_i-bots_4_vs_TFA_406-20210618T013056-new.html) (1 : 4)
-
-
 ### Phase Moon vs. Reset
 - **Final result:** (11 : 2)
 - [First half](worldcup-outputs/sim21_1_g1_r4_2-1/sim21_1_g1_r4_2_-_1_-_Reset_vs_Phase_Moon-20210618T013705-new.html) (4 : 1)
 - [Second half](worldcup-outputs/sim21_1_g1_r4_2-2/sim21_1_g1_r4_2_-_2_-_Phase_Moon_vs_Reset-20210618T014257-new.html) (7 : 1)
-
-
-### NewEtnaTeam vs. i-bots 4
-- **Final result:** (2 : 12)
-- [First half](worldcup-outputs/sim21_1_g1_r5_1-1/sim21_1_g1_r5_1_-_1_-_i-bots_4_vs_NewEtnaTeam-20210618T014901-new.html) (2 : 5)
-- [Second half](worldcup-outputs/sim21_1_g1_r5_1-2/sim21_1_g1_r5_1_-_2_-_NewEtnaTeam_vs_i-bots_4-20210618T015454-new.html) (0 : 7)
 
 
 ### Phase Moon vs. TFA 406
@@ -214,11 +189,11 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 
 |Team          |W - D - L|Points|Scored|Diff.|Rank|
 |--------------|---------|------|------|-----|----|
-|FAST AND SMART|4 - 0 - 0|12    |40    |33   |1   |
-|i-bots 5      |2 - 0 - 2|6     |51    |22   |2   |
-|Griffins      |2 - 0 - 2|6     |36    |16   |3   |
-|TX            |2 - 0 - 2|6     |31    |1    |4   |
-|Pooyesh       |0 - 0 - 4|0     |4     |-72  |5   |
+|FAST AND SMART|3 - 0 - 0|9     |27    |26   |1   |
+|TX            |2 - 0 - 1|6     |25    |8    |2   |
+|Griffins      |1 - 0 - 2|3     |26    |11   |3   |
+|Pooyesh       |0 - 0 - 3|0     |4     |-45  |4   |
+
 
 ### Pooyesh vs. FAST AND SMART
 - **Final result:** (0 : 13)
@@ -226,28 +201,10 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 - [Second half](worldcup-outputs/sim21_1_g4_r1_1-2/sim21_1_g4_r1_1_-_2_-_Pooyesh_vs_FAST_AND_SMART-20210618T063554-new.html) (0 : 6)
 
 
-### i-bots 5 vs. TX
-- **Final result:** (13 : 6)
-- [First half](worldcup-outputs/sim21_1_g4_r1_2-1/sim21_1_g4_r1_2_-_1_-_TX_vs_i-bots_5-20210618T064200-new.html) (8 : 4)
-- [Second half](worldcup-outputs/sim21_1_g4_r1_2-2/sim21_1_g4_r1_2_-_2_-_i-bots_5_vs_TX-20210618T064814-new.html) (5 : 2)
-
-
-### FAST AND SMART vs. i-bots 5
-- **Final result:** (13 : 6)
-- [First half](worldcup-outputs/sim21_1_g4_r2_1-1/sim21_1_g4_r2_1_-_1_-_i-bots_5_vs_FAST_AND_SMART-20210618T065418-new.html) (7 : 3)
-- [Second half](worldcup-outputs/sim21_1_g4_r2_1-2/sim21_1_g4_r2_1_-_2_-_FAST_AND_SMART_vs_i-bots_5-20210618T070103-new.html) (6 : 3)
-
-
 ### Griffins vs. TX
 - **Final result:** (6 : 8)
 - [First half](worldcup-outputs/sim21_1_g4_r2_2-1/sim21_1_g4_r2_2_-_1_-_TX_vs_Griffins-20210618T070728-new.html) (3 : 5)
 - [Second half](worldcup-outputs/sim21_1_g4_r2_2-2/sim21_1_g4_r2_2_-_2_-_Griffins_vs_TX-20210618T071355-new.html) (3 : 3)
-
-
-### Griffins vs. i-bots 5
-- **Final result:** (10 : 5)
-- [First half](worldcup-outputs/sim21_1_g4_r3_1-1/sim21_1_g4_r3_1_-_1_-_i-bots_5_vs_Griffins-20210618T072025-new.html) (6 : 2)
-- [Second half](worldcup-outputs/sim21_1_g4_r3_1-2/sim21_1_g4_r3_1_-_2_-_Griffins_vs_i-bots_5-20210618T072640-new.html) (4 : 3)
 
 
 ### TX vs. Pooyesh
@@ -260,12 +217,6 @@ Download results in [PDF](pdfs/wc-home-round.pdf)
 - **Final result:** (7 : 0)
 - [First half](worldcup-outputs/sim21_1_g4_r4_1-1/sim21_1_g4_r4_1_-_1_-_Griffins_vs_FAST_AND_SMART-20210618T074450-new.html) (2 : 0)
 - [Second half](worldcup-outputs/sim21_1_g4_r4_1-2/sim21_1_g4_r4_1_-_2_-_FAST_AND_SMART_vs_Griffins-20210618T075109-new.html) (5 : 0)
-
-
-### Pooyesh vs. i-bots 5
-- **Final result:** (0 : 27)
-- [First half](worldcup-outputs/sim21_1_g4_r4_2-1/sim21_1_g4_r4_2_-_1_-_i-bots_5_vs_Pooyesh-20210618T075737-new.html) (0 : 15)
-- [Second half](worldcup-outputs/sim21_1_g4_r4_2-2/sim21_1_g4_r4_2_-_2_-_Pooyesh_vs_i-bots_5-20210618T080329-new.html) (0 : 12)
 
 
 ### TX vs. FAST AND SMART
