@@ -2,6 +2,10 @@
 
 General information:
 
+- The Webots-based SoccerSim
+    ([docs](https://robocupjuniortc.github.io/rcj-soccer-sim/))
+    ([repo](https://github.com/RoboCupJuniorTC/rcj-soccer-sim))
+
 - [Schedule](pdfs/AnnouncementDisplays/JuniorSchedule-Soccer.pdf)
 
 - [Technical Challenges](technical-challenges.md)
