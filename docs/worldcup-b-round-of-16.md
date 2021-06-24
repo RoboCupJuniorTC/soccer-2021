@@ -1,5 +1,7 @@
 # SoccerSim: Round-of-16
 
+Download results in [PDF](pdfs/wc-round-of-16.pdf)
+
 |Team                              |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |----------------------------------|---------|------|------|-----|----|-------------|
 |TFA 406                           |0 - 0 - 1|0     |2     |-3   |2   |             |
