@@ -1,0 +1,33 @@
+{"datetime": "2021-06-24T14:43:46.806271Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:43:46.811940Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "FAST AND SMART", "team_name_blue": "KingKong", "match_id": "sim2b_4_qf2", "halftime": 1}}
+{"datetime": "2021-06-24T14:43:58.660895Z", "matchtime": 30.39999999998315, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:44:05.337830Z", "matchtime": 46.911999999974, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:44:08.332984Z", "matchtime": 53.56799999997031, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-24T14:44:09.780963Z", "matchtime": 56.575999999968644, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:44:18.775607Z", "matchtime": 71.03999999996063, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:44:29.384275Z", "matchtime": 89.59999999995176, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-24T14:44:31.696224Z", "matchtime": 92.60799999995277, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:44:55.417202Z", "matchtime": 124.41599999996339, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:45:14.209856Z", "matchtime": 151.9999999999726, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:45:26.260104Z", "matchtime": 170.36799999997874, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:45:46.478548Z", "matchtime": 202.94399999998961, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:45:57.906984Z", "matchtime": 220.8639999999956, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:46:09.864799Z", "matchtime": 238.5280000000015, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:46:20.446030Z", "matchtime": 255.68000000000723, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:46:29.873063Z", "matchtime": 270.40000000001214, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:46:46.446989Z", "matchtime": 299.13600000002174, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:47:05.290233Z", "matchtime": 332.2880000000328, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:47:27.968436Z", "matchtime": 371.6480000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:47:46.346244Z", "matchtime": 401.40800000003037, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:47:59.348696Z", "matchtime": 420.8640000000282, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T14:47:59.563417Z", "matchtime": 421.2480000000282, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:47:59.576290Z", "matchtime": 421.37600000002817, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:48:00.416318Z", "matchtime": 422.912000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:48:09.855002Z", "matchtime": 438.0800000000263, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:48:27.523604Z", "matchtime": 465.0880000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:48:39.153816Z", "matchtime": 484.4800000000212, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:49:00.736181Z", "matchtime": 515.8400000000178, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:49:28.162619Z", "matchtime": 563.9040000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:49:39.242756Z", "matchtime": 582.7200000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:49:49.454289Z", "matchtime": 599.6160000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:49:49.657647Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 2, "score_blue": 0, "team_name_yellow": "FAST AND SMART", "team_name_blue": "KingKong"}}

@@ -1,0 +1,51 @@
+{"datetime": "2021-06-24T15:56:41.351887Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T15:56:41.357594Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "GJH_team", "match_id": "sim2b_5_sf2", "halftime": 1}}
+{"datetime": "2021-06-24T15:56:46.883641Z", "matchtime": 18.687999999989643, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:56:47.404147Z", "matchtime": 20.35199999998872, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:56:55.861055Z", "matchtime": 41.08799999997723, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:57:07.167897Z", "matchtime": 66.36799999996322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:57:18.059739Z", "matchtime": 89.7279999999518, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:57:19.197566Z", "matchtime": 91.71199999995247, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:57:19.836250Z", "matchtime": 92.92799999995287, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:57:22.060541Z", "matchtime": 96.83199999995418, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-24T15:57:23.996183Z", "matchtime": 99.83999999995518, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T15:57:36.726829Z", "matchtime": 121.1519999999623, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:57:45.309182Z", "matchtime": 135.29599999996702, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:57:58.358071Z", "matchtime": 156.86399999997423, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:58:00.766474Z", "matchtime": 160.7039999999755, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2021-06-24T15:58:02.992488Z", "matchtime": 163.7119999999765, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T15:58:14.465231Z", "matchtime": 182.59199999998282, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T15:58:21.075667Z", "matchtime": 193.0239999999863, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:58:21.082938Z", "matchtime": 193.08799999998632, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:58:37.608090Z", "matchtime": 219.90399999999528, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:58:47.692836Z", "matchtime": 236.92800000000096, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:58:58.363182Z", "matchtime": 255.040000000007, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:59:00.156390Z", "matchtime": 258.048000000008, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:59:10.691030Z", "matchtime": 275.1360000000137, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:59:12.166132Z", "matchtime": 277.5040000000145, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-06-24T15:59:13.983003Z", "matchtime": 280.5120000000155, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T15:59:24.280471Z", "matchtime": 295.6800000000206, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:59:25.243717Z", "matchtime": 297.40800000002116, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:59:26.828163Z", "matchtime": 300.1600000000221, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2021-06-24T15:59:28.727114Z", "matchtime": 303.1680000000231, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T15:59:37.316870Z", "matchtime": 317.5040000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:59:44.713530Z", "matchtime": 329.856000000032, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T15:59:46.182743Z", "matchtime": 332.2240000000328, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T15:59:46.399088Z", "matchtime": 332.6080000000329, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2021-06-24T15:59:48.211432Z", "matchtime": 335.6160000000339, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T16:00:06.474932Z", "matchtime": 366.7840000000342, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:00:39.931119Z", "matchtime": 425.2800000000277, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:00:40.255633Z", "matchtime": 425.9200000000277, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:00:53.436447Z", "matchtime": 445.76000000002546, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:01:02.862725Z", "matchtime": 461.1840000000238, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T16:01:02.956452Z", "matchtime": 461.2480000000238, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:01:04.028811Z", "matchtime": 462.9760000000236, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:01:17.554191Z", "matchtime": 484.0320000000213, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:01:19.353747Z", "matchtime": 487.2320000000209, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:01:34.762463Z", "matchtime": 512.7680000000181, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:01:57.900629Z", "matchtime": 552.0000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:01:58.204804Z", "matchtime": 552.4480000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:01:59.167936Z", "matchtime": 554.2400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-24T16:02:00.748330Z", "matchtime": 557.0560000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:02:16.058974Z", "matchtime": 584.0000000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:02:25.232544Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 5, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "GJH_team"}}

@@ -1,0 +1,41 @@
+{"datetime": "2021-06-24T14:50:16.395155Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:50:16.400796Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "KingKong", "team_name_blue": "FAST AND SMART", "match_id": "sim2b_4_qf2", "halftime": 2}}
+{"datetime": "2021-06-24T14:50:24.070460Z", "matchtime": 17.91999999999007, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:50:30.978343Z", "matchtime": 36.35199999997985, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:50:38.018674Z", "matchtime": 54.27199999996992, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:50:51.010946Z", "matchtime": 78.46399999995651, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:51:00.350429Z", "matchtime": 95.74399999995381, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:51:13.763264Z", "matchtime": 121.4719999999624, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2021-06-24T14:51:15.789712Z", "matchtime": 124.47999999996341, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:51:26.726650Z", "matchtime": 141.69599999996916, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:51:44.760152Z", "matchtime": 168.127999999978, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 1, "score_blue": 3}}
+{"datetime": "2021-06-24T14:51:46.817452Z", "matchtime": 171.135999999979, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:51:57.829480Z", "matchtime": 188.15999999998468, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:52:15.914856Z", "matchtime": 214.39999999999344, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:52:17.299632Z", "matchtime": 216.7039999999942, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 1, "score_blue": 4}}
+{"datetime": "2021-06-24T14:52:19.346616Z", "matchtime": 219.71199999999521, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:52:30.194839Z", "matchtime": 234.75200000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:52:44.495022Z", "matchtime": 255.36000000000712, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:53:00.742608Z", "matchtime": 281.15200000001573, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:53:13.025223Z", "matchtime": 297.6000000000212, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:53:23.939631Z", "matchtime": 313.0240000000264, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:53:33.834512Z", "matchtime": 328.6400000000316, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:53:55.409373Z", "matchtime": 363.64800000003453, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:54:07.891632Z", "matchtime": 379.07200000003286, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:54:21.419127Z", "matchtime": 400.3840000000305, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:54:37.626179Z", "matchtime": 418.94400000002844, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 2, "score_blue": 4}}
+{"datetime": "2021-06-24T14:54:42.557674Z", "matchtime": 421.9520000000281, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:54:53.056093Z", "matchtime": 437.3760000000264, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:54:56.262455Z", "matchtime": 442.7520000000258, "event": "GOAL", "payload": {"team_name": "FAST AND SMART", "score_yellow": 2, "score_blue": 5}}
+{"datetime": "2021-06-24T14:54:58.211204Z", "matchtime": 445.76000000002546, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:55:10.789050Z", "matchtime": 461.6320000000237, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:55:22.464519Z", "matchtime": 479.3600000000218, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:55:35.488158Z", "matchtime": 497.9840000000197, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:55:49.728475Z", "matchtime": 518.4640000000174, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:55:56.680065Z", "matchtime": 529.6000000000163, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 3, "score_blue": 5}}
+{"datetime": "2021-06-24T14:55:58.633122Z", "matchtime": 532.6080000000159, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:56:06.430977Z", "matchtime": 544.2560000000155, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 4, "score_blue": 5}}
+{"datetime": "2021-06-24T14:56:08.580281Z", "matchtime": 547.2640000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:56:18.934267Z", "matchtime": 563.0720000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:56:29.229312Z", "matchtime": 577.3440000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:56:43.401644Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 4, "score_blue": 5, "team_name_yellow": "KingKong", "team_name_blue": "FAST AND SMART"}}
