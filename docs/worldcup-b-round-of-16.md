@@ -1,5 +1,25 @@
 # SoccerSim: Round-of-16
 
+|Team                              |W - D - L|Points|Scored|Diff.|Rank|Qualification|
+|----------------------------------|---------|------|------|-----|----|-------------|
+|TFA 406                           |0 - 0 - 1|0     |2     |-3   |2   |             |
+|Team Alpha                        |1 - 0 - 0|3     |5     |3    |1   |qualified    |
+|F1_Formula                        |0 - 0 - 1|0     |2     |-2   |2   |             |
+|ORKA Robotics                     |1 - 0 - 0|3     |4     |2    |1   |qualified    |
+|King-Kong                         |1 - 0 - 0|3     |20    |14   |1   |qualified    |
+|Hero boys                         |0 - 0 - 1|0     |6     |-14  |2   |             |
+|FAST AND SMART                    |1 - 0 - 0|3     |4     |4    |1   |qualified    |
+|NOVA                              |0 - 0 - 1|0     |0     |-4   |2   |             |
+|Apex                              |1 - 0 - 0|3     |4     |1    |1   |qualified    |
+|Phase moon                        |0 - 0 - 1|0     |3     |-1   |2   |             |
+|GJH_team                          |1 - 0 - 0|3     |2     |2    |1   |qualified    |
+|XLC-Innovation                    |0 - 0 - 1|0     |0     |-2   |2   |             |
+|moyasirobo                        |1 - 0 - 0|3     |10    |4    |1   |qualified    |
+|ZTK Dubrovnik CRO team            |0 - 0 - 1|0     |6     |-4   |2   |             |
+|Williamstown High School's Finest |1 - 0 - 0|3     |13    |8    |1   |qualified    |
+|TX                                |0 - 0 - 1|0     |5     |-8   |2   |             |
+
+
 ### Team Alpha vs. TFA 406
 - **Final result:** (5 : 2)
 - [First half](worldcup-outputs-b/sim2b_3_8th_1-1/sim2b_3_8th_1_-_1_-_TFA_406_vs_Team_Alpha-20210624T124325-new.html) (2 : 2)
