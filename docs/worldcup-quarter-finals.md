@@ -1,5 +1,7 @@
 # Soccer Sim Quarter Finals
 
+Download results in [PDF](pdfs/wc-quarter-finals.pdf)
+
 |Team                                      |W - D - L|Points|Scored|Diff.|Rank|Qualification|
 |------------------------------------------|---------|------|------|-----|----|-------------|
 |ORKA Robotics                             |0 - 0 - 1|0     |1     |-1   |2   |             |
