@@ -1,5 +1,16 @@
 # Soccer Sim Quarter Finals
 
+|Team                                      |W - D - L|Points|Scored|Diff.|Rank|Qualification|
+|------------------------------------------|---------|------|------|-----|----|-------------|
+|ORKA Robotics                             |0 - 0 - 1|0     |1     |-1   |2   |             |
+|Team Alpha                                |1 - 0 - 0|3     |2     |1    |1   |qualified    |
+|King-Kong                                 |0 - 0 - 1|0     |4     |-1   |2   |             |
+|FAST AND SMART                            |1 - 0 - 0|3     |5     |1    |1   |qualified    |
+|Apex                                      |0 - 0 - 1|0     |1     |-1   |2   |             |
+|GJH_team                                  |1 - 0 - 0|3     |2     |1    |1   |qualified    |
+|moyasirobo                                |0 - 0 - 1|0     |2     |-3   |2   |             |
+|Williamstown High School's Finest         |1 - 0 - 0|3     |5     |3    |1   |qualified    |
+
 ### ORKA Robotics vs. Team Alpha
 - **Final result:** (1 : 2)
 - [First half](worldcup-outputs-b/sim2b_4_qf1-1/sim2b_4_qf1_-_1_-_Team_Alpha_vs_ORKA_Robotics-20210624T143114-new.html) (1 : 0)
