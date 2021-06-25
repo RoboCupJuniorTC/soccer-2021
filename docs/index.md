@@ -21,3 +21,5 @@ General information:
 
 - [Group Phase - Home Round](worldcup-home-round.md)
 - [Group Phase - Away Round](worldcup-away-round.md)
+- [Round of 16](worldcup-b-round-of-16.md)
+- [Quarter Finals](worldcup-quarter-finals.md)
