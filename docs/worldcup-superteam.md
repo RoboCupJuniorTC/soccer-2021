@@ -1,148 +1,6 @@
 # SoccerSim SuperTeam
 
-### SP-ST-1 vs. SUPER TEAM 5
-- **Final result:** (3 : 5)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_1-1/sst21_1_g1_r10_1_-_1_-_SUPER_TEAM_5_vs_SP-ST-1-20210625T232059-new.html) (3 : 2)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_1-2/sst21_1_g1_r10_1_-_2_-_SP-ST-1_vs_SUPER_TEAM_5-20210625T232736-new.html) (0 : 3)
-
-
-### F1_Formula vs. SS-ST-6
-- **Final result:** (6 : 8)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_2-1/sst21_1_g1_r10_2_-_1_-_SS-ST-6_vs_F1_Formula-20210625T233345-new.html) (3 : 3)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_2-2/sst21_1_g1_r10_2_-_2_-_F1_Formula_vs_SS-ST-6-20210625T233956-new.html) (3 : 5)
-
-
-### SS-ST-3 vs.  SS-ST-7
-- **Final result:** (13 : 3)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_3-1/sst21_1_g1_r10_3_-_1_-__SS-ST-7_vs_SS-ST-3-20210625T234610-new.html) (3 : 0)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_3-2/sst21_1_g1_r10_3_-_2_-_SS-ST-3_vs__SS-ST-7-20210625T235145-new.html) (10 : 3)
-
-
-### Alpha Moon Orka vs. SS-ST-13
-- **Final result:** (0 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_4-1/sst21_1_g1_r10_4_-_1_-_SS-ST-13_vs_Alpha_Moon_Orka-20210625T235736-new.html) (0 : 0)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_4-2/sst21_1_g1_r10_4_-_2_-_Alpha_Moon_Orka_vs_SS-ST-13-20210626T000330-new.html) (0 : 2)
-
-
-### SS-ST-9 vs. SS-ST-12
-- **Final result:** (4 : 4)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_5-1/sst21_1_g1_r10_5_-_1_-_SS-ST-12_vs_SS-ST-9-20210626T000908-new.html) (2 : 0)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_5-2/sst21_1_g1_r10_5_-_2_-_SS-ST-9_vs_SS-ST-12-20210626T001518-new.html) (2 : 4)
-
-
-### SS-ST-10 vs. ZAP
-- **Final result:** (2 : 20)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_6-1/sst21_1_g1_r10_6_-_1_-_ZAP_vs_SS-ST-10-20210626T002133-new.html) (1 : 7)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_6-2/sst21_1_g1_r10_6_-_2_-_SS-ST-10_vs_ZAP-20210626T002759-new.html) (1 : 13)
-
-
-### F1_Formula vs. SP-ST-1
-- **Final result:** (4 : 6)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_1-1/sst21_1_g1_r11_1_-_1_-_SP-ST-1_vs_F1_Formula-20210626T003420-new.html) (2 : 3)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_1-2/sst21_1_g1_r11_1_-_2_-_F1_Formula_vs_SP-ST-1-20210626T003959-new.html) (2 : 3)
-
-
-### SS-ST-3 vs. SUPER TEAM 5
-- **Final result:** (1 : 7)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_2-1/sst21_1_g1_r11_2_-_1_-_SUPER_TEAM_5_vs_SS-ST-3-20210626T004547-new.html) (0 : 4)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_2-2/sst21_1_g1_r11_2_-_2_-_SS-ST-3_vs_SUPER_TEAM_5-20210626T005154-new.html) (1 : 3)
-
-
-### SuperTeam SP-ST-2 vs. SS-ST-6
-- **Final result:** (6 : 4)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_3-1/sst21_1_g1_r11_3_-_1_-_SS-ST-6_vs_SuperTeam_SP-ST-2-20210626T005806-new.html) (3 : 2)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_3-2/sst21_1_g1_r11_3_-_2_-_SuperTeam_SP-ST-2_vs_SS-ST-6-20210626T010417-new.html) (3 : 2)
-
-
-### Alpha Moon Orka vs.  SS-ST-7
-- **Final result:** (8 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_4-1/sst21_1_g1_r11_4_-_1_-__SS-ST-7_vs_Alpha_Moon_Orka-20210626T011019-new.html) (5 : 1)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_4-2/sst21_1_g1_r11_4_-_2_-_Alpha_Moon_Orka_vs__SS-ST-7-20210626T011606-new.html) (3 : 1)
-
-
-### SS-ST-10 vs. SS-ST-13
-- **Final result:** (1 : 34)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_5-1/sst21_1_g1_r11_5_-_1_-_SS-ST-13_vs_SS-ST-10-20210626T012147-new.html) (0 : 14)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_5-2/sst21_1_g1_r11_5_-_2_-_SS-ST-10_vs_SS-ST-13-20210626T012744-new.html) (1 : 20)
-
-
-### ZAP vs. SS-ST-12
-- **Final result:** (4 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_6-1/sst21_1_g1_r11_6_-_1_-_SS-ST-12_vs_ZAP-20210626T013348-new.html) (1 : 2)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_6-2/sst21_1_g1_r11_6_-_2_-_ZAP_vs_SS-ST-12-20210626T014009-new.html) (3 : 0)
-
-
-### SP-ST-1 vs. SS-ST-3
-- **Final result:** (6 : 1)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_1-1/sst21_1_g1_r12_1_-_1_-_SS-ST-3_vs_SP-ST-1-20210626T014632-new.html) (4 : 1)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_1-2/sst21_1_g1_r12_1_-_2_-_SP-ST-1_vs_SS-ST-3-20210626T015244-new.html) (2 : 0)
-
-
-### SuperTeam SP-ST-2 vs. F1_Formula
-- **Final result:** (3 : 6)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_2-1/sst21_1_g1_r12_2_-_1_-_F1_Formula_vs_SuperTeam_SP-ST-2-20210626T015841-new.html) (1 : 3)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_2-2/sst21_1_g1_r12_2_-_2_-_SuperTeam_SP-ST-2_vs_F1_Formula-20210626T020423-new.html) (2 : 3)
-
-
-### Alpha Moon Orka vs. SUPER TEAM 5
-- **Final result:** (0 : 6)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_3-1/sst21_1_g1_r12_3_-_1_-_SUPER_TEAM_5_vs_Alpha_Moon_Orka-20210626T021026-new.html) (0 : 2)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_3-2/sst21_1_g1_r12_3_-_2_-_Alpha_Moon_Orka_vs_SUPER_TEAM_5-20210626T021624-new.html) (0 : 4)
-
-
-### SS-ST-9 vs. SS-ST-6
-- **Final result:** (7 : 8)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_4-1/sst21_1_g1_r12_4_-_1_-_SS-ST-6_vs_SS-ST-9-20210626T022232-new.html) (3 : 6)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_4-2/sst21_1_g1_r12_4_-_2_-_SS-ST-9_vs_SS-ST-6-20210626T022852-new.html) (4 : 2)
-
-
-### SS-ST-10 vs.  SS-ST-7
-- **Final result:** (4 : 16)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_5-1/sst21_1_g1_r12_5_-_1_-__SS-ST-7_vs_SS-ST-10-20210626T023503-new.html) (1 : 11)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_5-2/sst21_1_g1_r12_5_-_2_-_SS-ST-10_vs__SS-ST-7-20210626T024109-new.html) (3 : 5)
-
-
-### SS-ST-12 vs. SS-ST-13
-- **Final result:** (2 : 9)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_6-1/sst21_1_g1_r12_6_-_1_-_SS-ST-13_vs_SS-ST-12-20210626T024720-new.html) (1 : 5)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_6-2/sst21_1_g1_r12_6_-_2_-_SS-ST-12_vs_SS-ST-13-20210626T025329-new.html) (1 : 4)
-
-
-### SuperTeam SP-ST-2 vs. SP-ST-1
-- **Final result:** (4 : 10)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_1-1/sst21_1_g1_r13_1_-_1_-_SP-ST-1_vs_SuperTeam_SP-ST-2-20210626T025939-new.html) (1 : 7)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_1-2/sst21_1_g1_r13_1_-_2_-_SuperTeam_SP-ST-2_vs_SP-ST-1-20210626T030558-new.html) (3 : 3)
-
-
-### Alpha Moon Orka vs. SS-ST-3
-- **Final result:** (4 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_2-1/sst21_1_g1_r13_2_-_1_-_SS-ST-3_vs_Alpha_Moon_Orka-20210626T031157-new.html) (0 : 2)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_2-2/sst21_1_g1_r13_2_-_2_-_Alpha_Moon_Orka_vs_SS-ST-3-20210626T031732-new.html) (4 : 0)
-
-
-### SS-ST-9 vs. F1_Formula
-- **Final result:** (1 : 4)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_3-1/sst21_1_g1_r13_3_-_1_-_F1_Formula_vs_SS-ST-9-20210626T032325-new.html) (0 : 3)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_3-2/sst21_1_g1_r13_3_-_2_-_SS-ST-9_vs_F1_Formula-20210626T032921-new.html) (1 : 1)
-
-
-### SS-ST-10 vs. SUPER TEAM 5
-- **Final result:** (1 : 17)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_4-1/sst21_1_g1_r13_4_-_1_-_SUPER_TEAM_5_vs_SS-ST-10-20210626T033533-new.html) (0 : 7)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_4-2/sst21_1_g1_r13_4_-_2_-_SS-ST-10_vs_SUPER_TEAM_5-20210626T034132-new.html) (1 : 10)
-
-
-### ZAP vs. SS-ST-6
-- **Final result:** (5 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_5-1/sst21_1_g1_r13_5_-_1_-_SS-ST-6_vs_ZAP-20210626T034745-new.html) (0 : 0)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_5-2/sst21_1_g1_r13_5_-_2_-_ZAP_vs_SS-ST-6-20210626T035407-new.html) (5 : 2)
-
-
-### SS-ST-12 vs.  SS-ST-7
-- **Final result:** (10 : 2)
-- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_6-1/sst21_1_g1_r13_6_-_1_-__SS-ST-7_vs_SS-ST-12-20210626T040040-new.html) (4 : 0)
-- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_6-2/sst21_1_g1_r13_6_-_2_-_SS-ST-12_vs__SS-ST-7-20210626T040648-new.html) (6 : 2)
-
+## Round 1
 
 ### Alpha Moon Orka vs. SP-ST-1
 - **Final result:** (4 : 5)
@@ -179,6 +37,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r1_6-1/sst21_1_g1_r1_6_-_1_-_SS-ST-6_vs_SS-ST-13-20210626T051416-new.html) (7 : 2)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r1_6-2/sst21_1_g1_r1_6_-_2_-_SS-ST-13_vs_SS-ST-6-20210626T052019-new.html) (8 : 1)
 
+## Round 2
 
 ### SP-ST-1 vs. SS-ST-9
 - **Final result:** (4 : 3)
@@ -215,6 +74,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r2_6-1/sst21_1_g1_r2_6_-_1_-_SS-ST-6_vs__SS-ST-7-20210626T062716-new.html) (3 : 6)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r2_6-2/sst21_1_g1_r2_6_-_2_-__SS-ST-7_vs_SS-ST-6-20210626T063334-new.html) (1 : 5)
 
+## Round 3
 
 ### SS-ST-10 vs. SP-ST-1
 - **Final result:** (2 : 27)
@@ -251,6 +111,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r3_6-1/sst21_1_g1_r3_6_-_1_-_SUPER_TEAM_5_vs_SS-ST-6-20210626T074038-new.html) (2 : 6)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r3_6-2/sst21_1_g1_r3_6_-_2_-_SS-ST-6_vs_SUPER_TEAM_5-20210626T074652-new.html) (0 : 3)
 
+## Round 4
 
 ### SP-ST-1 vs. ZAP
 - **Final result:** (3 : 1)
@@ -287,6 +148,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r4_6-1/sst21_1_g1_r4_6_-_1_-_F1_Formula_vs_SUPER_TEAM_5-20210626T085434-new.html) (2 : 2)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r4_6-2/sst21_1_g1_r4_6_-_2_-_SUPER_TEAM_5_vs_F1_Formula-20210626T090048-new.html) (5 : 2)
 
+## Round 5
 
 ### SS-ST-12 vs. SP-ST-1
 - **Final result:** (1 : 5)
@@ -323,6 +185,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r5_6-1/sst21_1_g1_r5_6_-_1_-_SS-ST-3_vs_F1_Formula-20210626T100736-new.html) (1 : 3)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r5_6-2/sst21_1_g1_r5_6_-_2_-_F1_Formula_vs_SS-ST-3-20210626T101338-new.html) (1 : 1)
 
+## Round 6
 
 ### SP-ST-1 vs. SS-ST-13
 - **Final result:** (2 : 10)
@@ -359,6 +222,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r6_6-1/sst21_1_g1_r6_6_-_1_-_SuperTeam_SP-ST-2_vs_SS-ST-3-20210626T111959-new.html) (3 : 1)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r6_6-2/sst21_1_g1_r6_6_-_2_-_SS-ST-3_vs_SuperTeam_SP-ST-2-20210626T112544-new.html) (1 : 2)
 
+## Round 7
 
 ###  SS-ST-7 vs. SS-ST-13
 - **Final result:** (1 : 8)
@@ -395,6 +259,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r7_6-1/sst21_1_g1_r7_6_-_1_-_Alpha_Moon_Orka_vs_SuperTeam_SP-ST-2-20210626T123257-new.html) (2 : 1)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r7_6-2/sst21_1_g1_r7_6_-_2_-_SuperTeam_SP-ST-2_vs_Alpha_Moon_Orka-20210626T123837-new.html) (2 : 1)
 
+## Round 8
 
 ### SP-ST-1 vs.  SS-ST-7
 - **Final result:** (7 : 2)
@@ -431,6 +296,7 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r8_6-1/sst21_1_g1_r8_6_-_1_-_SS-ST-9_vs_Alpha_Moon_Orka-20210626T134657-new.html) (4 : 3)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r8_6-2/sst21_1_g1_r8_6_-_2_-_Alpha_Moon_Orka_vs_SS-ST-9-20210626T135259-new.html) (6 : 2)
 
+## Round 9
 
 ### SS-ST-6 vs. SP-ST-1
 - **Final result:** (2 : 6)
@@ -467,3 +333,150 @@
 - [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r9_6-1/sst21_1_g1_r9_6_-_1_-_SS-ST-10_vs_SS-ST-9-20210626T150055-new.html) (10 : 1)
 - [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r9_6-2/sst21_1_g1_r9_6_-_2_-_SS-ST-9_vs_SS-ST-10-20210626T150706-new.html) (11 : 1)
 
+## Round 10
+
+### SP-ST-1 vs. SUPER TEAM 5
+- **Final result:** (3 : 5)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_1-1/sst21_1_g1_r10_1_-_1_-_SUPER_TEAM_5_vs_SP-ST-1-20210625T232059-new.html) (3 : 2)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_1-2/sst21_1_g1_r10_1_-_2_-_SP-ST-1_vs_SUPER_TEAM_5-20210625T232736-new.html) (0 : 3)
+
+
+### F1_Formula vs. SS-ST-6
+- **Final result:** (6 : 8)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_2-1/sst21_1_g1_r10_2_-_1_-_SS-ST-6_vs_F1_Formula-20210625T233345-new.html) (3 : 3)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_2-2/sst21_1_g1_r10_2_-_2_-_F1_Formula_vs_SS-ST-6-20210625T233956-new.html) (3 : 5)
+
+
+### SS-ST-3 vs.  SS-ST-7
+- **Final result:** (13 : 3)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_3-1/sst21_1_g1_r10_3_-_1_-__SS-ST-7_vs_SS-ST-3-20210625T234610-new.html) (3 : 0)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_3-2/sst21_1_g1_r10_3_-_2_-_SS-ST-3_vs__SS-ST-7-20210625T235145-new.html) (10 : 3)
+
+
+### Alpha Moon Orka vs. SS-ST-13
+- **Final result:** (0 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_4-1/sst21_1_g1_r10_4_-_1_-_SS-ST-13_vs_Alpha_Moon_Orka-20210625T235736-new.html) (0 : 0)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_4-2/sst21_1_g1_r10_4_-_2_-_Alpha_Moon_Orka_vs_SS-ST-13-20210626T000330-new.html) (0 : 2)
+
+
+### SS-ST-9 vs. SS-ST-12
+- **Final result:** (4 : 4)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_5-1/sst21_1_g1_r10_5_-_1_-_SS-ST-12_vs_SS-ST-9-20210626T000908-new.html) (2 : 0)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_5-2/sst21_1_g1_r10_5_-_2_-_SS-ST-9_vs_SS-ST-12-20210626T001518-new.html) (2 : 4)
+
+
+### SS-ST-10 vs. ZAP
+- **Final result:** (2 : 20)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_6-1/sst21_1_g1_r10_6_-_1_-_ZAP_vs_SS-ST-10-20210626T002133-new.html) (1 : 7)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r10_6-2/sst21_1_g1_r10_6_-_2_-_SS-ST-10_vs_ZAP-20210626T002759-new.html) (1 : 13)
+
+## Round 11
+
+### F1_Formula vs. SP-ST-1
+- **Final result:** (4 : 6)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_1-1/sst21_1_g1_r11_1_-_1_-_SP-ST-1_vs_F1_Formula-20210626T003420-new.html) (2 : 3)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_1-2/sst21_1_g1_r11_1_-_2_-_F1_Formula_vs_SP-ST-1-20210626T003959-new.html) (2 : 3)
+
+
+### SS-ST-3 vs. SUPER TEAM 5
+- **Final result:** (1 : 7)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_2-1/sst21_1_g1_r11_2_-_1_-_SUPER_TEAM_5_vs_SS-ST-3-20210626T004547-new.html) (0 : 4)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_2-2/sst21_1_g1_r11_2_-_2_-_SS-ST-3_vs_SUPER_TEAM_5-20210626T005154-new.html) (1 : 3)
+
+
+### SuperTeam SP-ST-2 vs. SS-ST-6
+- **Final result:** (6 : 4)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_3-1/sst21_1_g1_r11_3_-_1_-_SS-ST-6_vs_SuperTeam_SP-ST-2-20210626T005806-new.html) (3 : 2)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_3-2/sst21_1_g1_r11_3_-_2_-_SuperTeam_SP-ST-2_vs_SS-ST-6-20210626T010417-new.html) (3 : 2)
+
+
+### Alpha Moon Orka vs.  SS-ST-7
+- **Final result:** (8 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_4-1/sst21_1_g1_r11_4_-_1_-__SS-ST-7_vs_Alpha_Moon_Orka-20210626T011019-new.html) (5 : 1)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_4-2/sst21_1_g1_r11_4_-_2_-_Alpha_Moon_Orka_vs__SS-ST-7-20210626T011606-new.html) (3 : 1)
+
+
+### SS-ST-10 vs. SS-ST-13
+- **Final result:** (1 : 34)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_5-1/sst21_1_g1_r11_5_-_1_-_SS-ST-13_vs_SS-ST-10-20210626T012147-new.html) (0 : 14)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_5-2/sst21_1_g1_r11_5_-_2_-_SS-ST-10_vs_SS-ST-13-20210626T012744-new.html) (1 : 20)
+
+
+### ZAP vs. SS-ST-12
+- **Final result:** (4 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_6-1/sst21_1_g1_r11_6_-_1_-_SS-ST-12_vs_ZAP-20210626T013348-new.html) (1 : 2)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r11_6-2/sst21_1_g1_r11_6_-_2_-_ZAP_vs_SS-ST-12-20210626T014009-new.html) (3 : 0)
+
+## Round 12
+
+### SP-ST-1 vs. SS-ST-3
+- **Final result:** (6 : 1)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_1-1/sst21_1_g1_r12_1_-_1_-_SS-ST-3_vs_SP-ST-1-20210626T014632-new.html) (4 : 1)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_1-2/sst21_1_g1_r12_1_-_2_-_SP-ST-1_vs_SS-ST-3-20210626T015244-new.html) (2 : 0)
+
+
+### SuperTeam SP-ST-2 vs. F1_Formula
+- **Final result:** (3 : 6)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_2-1/sst21_1_g1_r12_2_-_1_-_F1_Formula_vs_SuperTeam_SP-ST-2-20210626T015841-new.html) (1 : 3)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_2-2/sst21_1_g1_r12_2_-_2_-_SuperTeam_SP-ST-2_vs_F1_Formula-20210626T020423-new.html) (2 : 3)
+
+
+### Alpha Moon Orka vs. SUPER TEAM 5
+- **Final result:** (0 : 6)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_3-1/sst21_1_g1_r12_3_-_1_-_SUPER_TEAM_5_vs_Alpha_Moon_Orka-20210626T021026-new.html) (0 : 2)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_3-2/sst21_1_g1_r12_3_-_2_-_Alpha_Moon_Orka_vs_SUPER_TEAM_5-20210626T021624-new.html) (0 : 4)
+
+
+### SS-ST-9 vs. SS-ST-6
+- **Final result:** (7 : 8)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_4-1/sst21_1_g1_r12_4_-_1_-_SS-ST-6_vs_SS-ST-9-20210626T022232-new.html) (3 : 6)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_4-2/sst21_1_g1_r12_4_-_2_-_SS-ST-9_vs_SS-ST-6-20210626T022852-new.html) (4 : 2)
+
+
+### SS-ST-10 vs.  SS-ST-7
+- **Final result:** (4 : 16)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_5-1/sst21_1_g1_r12_5_-_1_-__SS-ST-7_vs_SS-ST-10-20210626T023503-new.html) (1 : 11)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_5-2/sst21_1_g1_r12_5_-_2_-_SS-ST-10_vs__SS-ST-7-20210626T024109-new.html) (3 : 5)
+
+
+### SS-ST-12 vs. SS-ST-13
+- **Final result:** (2 : 9)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_6-1/sst21_1_g1_r12_6_-_1_-_SS-ST-13_vs_SS-ST-12-20210626T024720-new.html) (1 : 5)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r12_6-2/sst21_1_g1_r12_6_-_2_-_SS-ST-12_vs_SS-ST-13-20210626T025329-new.html) (1 : 4)
+
+## Round 13
+
+### SuperTeam SP-ST-2 vs. SP-ST-1
+- **Final result:** (4 : 10)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_1-1/sst21_1_g1_r13_1_-_1_-_SP-ST-1_vs_SuperTeam_SP-ST-2-20210626T025939-new.html) (1 : 7)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_1-2/sst21_1_g1_r13_1_-_2_-_SuperTeam_SP-ST-2_vs_SP-ST-1-20210626T030558-new.html) (3 : 3)
+
+
+### Alpha Moon Orka vs. SS-ST-3
+- **Final result:** (4 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_2-1/sst21_1_g1_r13_2_-_1_-_SS-ST-3_vs_Alpha_Moon_Orka-20210626T031157-new.html) (0 : 2)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_2-2/sst21_1_g1_r13_2_-_2_-_Alpha_Moon_Orka_vs_SS-ST-3-20210626T031732-new.html) (4 : 0)
+
+
+### SS-ST-9 vs. F1_Formula
+- **Final result:** (1 : 4)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_3-1/sst21_1_g1_r13_3_-_1_-_F1_Formula_vs_SS-ST-9-20210626T032325-new.html) (0 : 3)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_3-2/sst21_1_g1_r13_3_-_2_-_SS-ST-9_vs_F1_Formula-20210626T032921-new.html) (1 : 1)
+
+
+### SS-ST-10 vs. SUPER TEAM 5
+- **Final result:** (1 : 17)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_4-1/sst21_1_g1_r13_4_-_1_-_SUPER_TEAM_5_vs_SS-ST-10-20210626T033533-new.html) (0 : 7)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_4-2/sst21_1_g1_r13_4_-_2_-_SS-ST-10_vs_SUPER_TEAM_5-20210626T034132-new.html) (1 : 10)
+
+
+### ZAP vs. SS-ST-6
+- **Final result:** (5 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_5-1/sst21_1_g1_r13_5_-_1_-_SS-ST-6_vs_ZAP-20210626T034745-new.html) (0 : 0)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_5-2/sst21_1_g1_r13_5_-_2_-_ZAP_vs_SS-ST-6-20210626T035407-new.html) (5 : 2)
+
+
+### SS-ST-12 vs.  SS-ST-7
+- **Final result:** (10 : 2)
+- [First half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_6-1/sst21_1_g1_r13_6_-_1_-__SS-ST-7_vs_SS-ST-12-20210626T040040-new.html) (4 : 0)
+- [Second half](https://robocupjuniortc.github.io/soccersim-outputs-2021/worldcup-superteam-outputs/sst21_1_g1_r13_6-2/sst21_1_g1_r13_6_-_2_-_SS-ST-12_vs__SS-ST-7-20210626T040648-new.html) (6 : 2)
