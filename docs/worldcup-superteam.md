@@ -1,5 +1,23 @@
 # SoccerSim SuperTeam
 
+Download results in [PDF](pdfs/wc-superteam.pdf)
+
+|Team    |Points|Scored|Diff.|Rank|
+|--------|------|------|-----|----|
+|SS-ST-13|37    |128   |110  |1   |
+|SS-ST-5 |37    |101   |83   |2   |
+|SS-ST-1 |33    |94    |55   |3   |
+|SS-ST-8 |24    |66    |31   |4   |
+|SS-ST-11|23    |54    |27   |5   |
+|SS-ST-3 |22    |73    |15   |6   |
+|SS-ST-2 |21    |86    |28   |7   |
+|SS-ST-4 |19    |72    |29   |8   |
+|SS-ST-12|19    |69    |11   |9   |
+|SS-ST-6 |15    |70    |-11  |10  |
+|SS-ST-9 |8     |68    |-8   |11  |
+|SS-ST-7 |7     |47    |-48  |12  |
+|SS-ST-10|3     |40    |-192 |13  |
+
 ## Round 1
 
 ### Alpha Moon Orka vs. SP-ST-1
