@@ -7,6 +7,7 @@ theme:
 nav:
   - Home: index.md
   - Feedback: feedback.md
+  - "Technical Challenges": technical-challenges.md
   - "SoccerSim Qualification":
     - "Africa + Europe": qualification-africa-europe.md
     - Americas: qualification-americas.md
