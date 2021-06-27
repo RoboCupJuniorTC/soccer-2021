@@ -28,4 +28,4 @@
 
 Here are some solutions that got Open Sourced. Be sure to check them out!
 
-- https://github.com/xlcteam/Soccer_Simulation_2021/tree/main/technical_chalenges
+- [XLC-Innovation](https://github.com/xlcteam/Soccer_Simulation_2021/tree/main/technical_chalenges)
