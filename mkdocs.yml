@@ -6,6 +6,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Feedback: feedback.md
   - "SoccerSim Qualification":
     - "Africa + Europe": qualification-africa-europe.md
     - Americas: qualification-americas.md
@@ -16,3 +17,4 @@ nav:
     - "Round of 16": worldcup-b-round-of-16.md
     - "Quarter Finals": worldcup-quarter-finals.md
     - "Semi Finals": worldcup-semi-finals.md
+
