@@ -24,3 +24,4 @@ General information:
 - [Round of 16](worldcup-b-round-of-16.md)
 - [Quarter Finals](worldcup-quarter-finals.md)
 - [Semi Finals](worldcup-semi-finals.md)
+- [Finals](worldcup-finals.md)
