@@ -1,0 +1,42 @@
+{"datetime": "2021-06-19T06:11:46.952504Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:11:46.964945Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 5, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "moyasirobo", "team_name_blue": "allameh tabatabaei", "match_id": "sim21_2_g7_r2_2", "halftime": 2}}
+{"datetime": "2021-06-19T06:11:56.675639Z", "matchtime": 20.60799999998858, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:12:10.063120Z", "matchtime": 60.15999999996666, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:12:16.928556Z", "matchtime": 70.78399999996077, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:12:27.535180Z", "matchtime": 91.00799999995223, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:12:36.550986Z", "matchtime": 108.67199999995813, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:12:39.548635Z", "matchtime": 113.47199999995973, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:12:57.840463Z", "matchtime": 144.57599999997012, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:13:09.728419Z", "matchtime": 162.30399999997604, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T06:13:12.434851Z", "matchtime": 165.63199999997715, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:13:28.863043Z", "matchtime": 189.63199999998517, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:13:29.504279Z", "matchtime": 190.5919999999855, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:13:40.666484Z", "matchtime": 209.72799999999188, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:13:46.237436Z", "matchtime": 218.55999999999483, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:13:47.162696Z", "matchtime": 219.71199999999521, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 5, "score_blue": 3}}
+{"datetime": "2021-06-19T06:13:49.281403Z", "matchtime": 222.71999999999622, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:14:03.081599Z", "matchtime": 241.47200000000248, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:14:15.914969Z", "matchtime": 262.65600000000956, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:14:16.966176Z", "matchtime": 264.3200000000101, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-19T06:14:17.696175Z", "matchtime": 265.4720000000105, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:14:28.334138Z", "matchtime": 281.47200000001584, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 5, "score_blue": 4}}
+{"datetime": "2021-06-19T06:14:30.448863Z", "matchtime": 284.48000000001684, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:14:42.512404Z", "matchtime": 301.6960000000226, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T06:14:56.094117Z", "matchtime": 317.3120000000278, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:15:12.042726Z", "matchtime": 339.00800000003505, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:15:34.712151Z", "matchtime": 376.25600000003317, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:15:41.256253Z", "matchtime": 387.3280000000319, "event": "GOAL", "payload": {"team_name": "allameh tabatabaei", "score_yellow": 5, "score_blue": 5}}
+{"datetime": "2021-06-19T06:15:43.498260Z", "matchtime": 390.3360000000316, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T06:15:55.792194Z", "matchtime": 412.1600000000292, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 6, "score_blue": 5}}
+{"datetime": "2021-06-19T06:15:57.621339Z", "matchtime": 415.1680000000289, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:16:12.128124Z", "matchtime": 439.4240000000262, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:16:12.887154Z", "matchtime": 440.70400000002604, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 7, "score_blue": 5}}
+{"datetime": "2021-06-19T06:16:14.630649Z", "matchtime": 443.7120000000257, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:16:46.555621Z", "matchtime": 487.2960000000209, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:17:02.024524Z", "matchtime": 512.9600000000181, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T06:17:02.548306Z", "matchtime": 513.600000000018, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T06:17:08.332046Z", "matchtime": 521.7280000000171, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 8, "score_blue": 5}}
+{"datetime": "2021-06-19T06:17:10.150997Z", "matchtime": 524.7360000000168, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T06:17:25.818333Z", "matchtime": 545.7920000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:17:42.098143Z", "matchtime": 568.0640000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T06:18:00.131985Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 8, "score_blue": 5, "team_name_yellow": "moyasirobo", "team_name_blue": "allameh tabatabaei"}}

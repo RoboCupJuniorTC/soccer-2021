@@ -1,0 +1,27 @@
+{"datetime": "2021-06-18T13:49:16.547038Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T13:49:16.560202Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Speshari", "team_name_blue": "moyasirobo", "match_id": "sim21_1_g7_r4_1", "halftime": 1}}
+{"datetime": "2021-06-18T13:49:24.253097Z", "matchtime": 16.639999999990778, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:49:32.091065Z", "matchtime": 33.66399999998134, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:49:45.832566Z", "matchtime": 69.63199999996141, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-18T13:49:47.169916Z", "matchtime": 72.63999999995974, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T13:50:23.527282Z", "matchtime": 151.80799999997254, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:50:35.074515Z", "matchtime": 175.48799999998045, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:50:47.606739Z", "matchtime": 195.64799999998718, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:51:00.667472Z", "matchtime": 217.5999999999945, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:51:21.063247Z", "matchtime": 251.3920000000058, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:51:34.345595Z", "matchtime": 275.45600000001383, "event": "GOAL", "payload": {"team_name": "Speshari", "score_yellow": 1, "score_blue": 1}}
+{"datetime": "2021-06-18T13:51:36.256791Z", "matchtime": 278.46400000001483, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T13:51:47.316702Z", "matchtime": 295.1040000000204, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:51:53.922152Z", "matchtime": 306.8160000000243, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T13:51:55.595662Z", "matchtime": 309.8240000000253, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T13:52:17.438077Z", "matchtime": 343.16800000003644, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:52:42.600443Z", "matchtime": 385.0240000000322, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:53:02.141977Z", "matchtime": 420.80000000002826, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:53:03.177058Z", "matchtime": 422.65600000002803, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T13:53:13.987627Z", "matchtime": 441.15200000002596, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:53:28.408073Z", "matchtime": 466.81600000002317, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:53:53.915058Z", "matchtime": 512.1920000000182, "event": "GOAL", "payload": {"team_name": "moyasirobo", "score_yellow": 1, "score_blue": 2}}
+{"datetime": "2021-06-18T13:53:55.815331Z", "matchtime": 515.2000000000178, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T13:54:09.579857Z", "matchtime": 535.8720000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:54:40.744206Z", "matchtime": 588.9280000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T13:54:48.026586Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 2, "team_name_yellow": "Speshari", "team_name_blue": "moyasirobo"}}

@@ -1,0 +1,23 @@
+{"datetime": "2021-06-18T12:28:14.217258Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T12:28:14.230637Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 1, "score_blue": 2, "total_match_time": 600, "team_name_yellow": "Turbo_Technorobiran", "team_name_blue": "ORKA Robotics", "match_id": "sim21_1_g6_r5_2", "halftime": 2}}
+{"datetime": "2021-06-18T12:28:24.406369Z", "matchtime": 28.223999999984358, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T12:28:24.522564Z", "matchtime": 28.67199999998411, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T12:28:28.528377Z", "matchtime": 38.27199999997879, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T12:28:28.833895Z", "matchtime": 38.71999999997854, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:28:45.887312Z", "matchtime": 76.22399999995775, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:28:58.388841Z", "matchtime": 101.05599999995559, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:29:12.316997Z", "matchtime": 125.69599999996382, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T12:29:35.166065Z", "matchtime": 167.2959999999777, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:30:24.919603Z", "matchtime": 245.24800000000374, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:31:03.849445Z", "matchtime": 314.43200000002685, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T12:31:20.242943Z", "matchtime": 339.58400000003525, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T12:31:21.276717Z", "matchtime": 340.8640000000357, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T12:31:33.437655Z", "matchtime": 362.49600000003466, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:31:40.398696Z", "matchtime": 372.60800000003354, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:31:52.858752Z", "matchtime": 392.70400000003133, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:32:05.300794Z", "matchtime": 414.20800000002896, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:32:21.604766Z", "matchtime": 442.81600000002584, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:32:40.464012Z", "matchtime": 471.1680000000227, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:33:22.533750Z", "matchtime": 545.7920000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T12:33:24.624778Z", "matchtime": 549.4400000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T12:33:54.145253Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 2, "team_name_yellow": "Turbo_Technorobiran", "team_name_blue": "ORKA Robotics"}}

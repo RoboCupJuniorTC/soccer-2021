@@ -1,0 +1,30 @@
+{"datetime": "2021-06-18T20:35:18.011764Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:35:18.025260Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 2, "score_blue": 12, "total_match_time": 600, "team_name_yellow": "musou japan", "team_name_blue": "Robros", "match_id": "sim21_2_g2_r4_1", "halftime": 2}}
+{"datetime": "2021-06-18T20:35:24.148131Z", "matchtime": 19.19999999998936, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 3, "score_blue": 12}}
+{"datetime": "2021-06-18T20:35:25.278185Z", "matchtime": 22.207999999987692, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:35:26.716659Z", "matchtime": 26.111999999985528, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 13}}
+{"datetime": "2021-06-18T20:35:28.263611Z", "matchtime": 29.11999999998386, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:36:05.293757Z", "matchtime": 94.01599999995324, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T20:36:15.162352Z", "matchtime": 106.87999999995753, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:36:23.097315Z", "matchtime": 121.1519999999623, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 14}}
+{"datetime": "2021-06-18T20:36:24.891426Z", "matchtime": 124.1599999999633, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:36:41.780751Z", "matchtime": 152.3199999999727, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 3, "score_blue": 15}}
+{"datetime": "2021-06-18T20:36:43.484274Z", "matchtime": 155.3279999999737, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:37:10.554835Z", "matchtime": 193.2799999999864, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:37:16.207354Z", "matchtime": 203.39199999998976, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:38:06.576996Z", "matchtime": 290.1120000000187, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 4, "score_blue": 15}}
+{"datetime": "2021-06-18T20:38:08.286794Z", "matchtime": 293.12000000001973, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:38:20.129515Z", "matchtime": 309.31200000002514, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:38:50.440139Z", "matchtime": 361.9840000000347, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 4, "score_blue": 16}}
+{"datetime": "2021-06-18T20:38:52.233640Z", "matchtime": 364.9920000000344, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:39:09.790211Z", "matchtime": 395.648000000031, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 5, "score_blue": 16}}
+{"datetime": "2021-06-18T20:39:11.501343Z", "matchtime": 398.65600000003064, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:39:21.764988Z", "matchtime": 411.20000000002926, "event": "GOAL", "payload": {"team_name": "Robros", "score_yellow": 5, "score_blue": 17}}
+{"datetime": "2021-06-18T20:39:23.675746Z", "matchtime": 414.20800000002896, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T20:39:44.373327Z", "matchtime": 444.9280000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T20:40:09.702092Z", "matchtime": 483.3920000000213, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T20:40:10.225510Z", "matchtime": 484.0320000000213, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 6, "score_blue": 17}}
+{"datetime": "2021-06-18T20:40:12.136593Z", "matchtime": 487.04000000002094, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:40:23.204761Z", "matchtime": 504.384000000019, "event": "GOAL", "payload": {"team_name": "musou japan", "score_yellow": 7, "score_blue": 17}}
+{"datetime": "2021-06-18T20:40:25.007630Z", "matchtime": 507.3920000000187, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T20:41:20.510430Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 7, "score_blue": 17, "team_name_yellow": "musou japan", "team_name_blue": "Robros"}}

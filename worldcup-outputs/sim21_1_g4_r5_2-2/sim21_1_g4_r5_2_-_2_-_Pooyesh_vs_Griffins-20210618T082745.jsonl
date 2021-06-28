@@ -1,0 +1,121 @@
+{"datetime": "2021-06-18T08:27:47.535253Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:27:47.641355Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 7, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Griffins", "team_name_blue": "Pooyesh", "match_id": "sim21_1_g4_r5_2", "halftime": 2}}
+{"datetime": "2021-06-18T08:27:51.508123Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:27:51.514690Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:27:51.524372Z", "matchtime": 15.103999999991629, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:27:56.972208Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:27:56.978451Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:27:56.984150Z", "matchtime": 30.207999999983258, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:28:02.421794Z", "matchtime": 41.66399999997691, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 8, "score_blue": 0}}
+{"datetime": "2021-06-18T08:28:04.076530Z", "matchtime": 44.67199999997524, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:28:09.374261Z", "matchtime": 54.335999999969886, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 9, "score_blue": 0}}
+{"datetime": "2021-06-18T08:28:11.063952Z", "matchtime": 57.34399999996822, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:28:19.227825Z", "matchtime": 72.44799999995985, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:28:19.235330Z", "matchtime": 72.44799999995985, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:28:19.241286Z", "matchtime": 72.44799999995985, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:28:27.442294Z", "matchtime": 87.55199999995148, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:28:27.448455Z", "matchtime": 87.55199999995148, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:28:27.454305Z", "matchtime": 87.55199999995148, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:28:35.611798Z", "matchtime": 102.65599999995612, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:28:35.617587Z", "matchtime": 102.65599999995612, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:28:35.623549Z", "matchtime": 102.65599999995612, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:28:43.883900Z", "matchtime": 117.75999999996117, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:28:43.890228Z", "matchtime": 117.75999999996117, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:28:43.895752Z", "matchtime": 117.75999999996117, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:28:46.375984Z", "matchtime": 122.23999999996266, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 10, "score_blue": 0}}
+{"datetime": "2021-06-18T08:28:48.055423Z", "matchtime": 125.24799999996367, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:28:56.481387Z", "matchtime": 140.3519999999687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:28:56.488310Z", "matchtime": 140.3519999999687, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:28:57.213756Z", "matchtime": 141.63199999996914, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:04.678830Z", "matchtime": 155.45599999997376, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:04.686367Z", "matchtime": 155.45599999997376, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:05.103206Z", "matchtime": 156.223999999974, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 11, "score_blue": 0}}
+{"datetime": "2021-06-18T08:29:06.788834Z", "matchtime": 159.23199999997502, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:29:14.936010Z", "matchtime": 174.33599999998006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:14.944012Z", "matchtime": 174.33599999998006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:14.949922Z", "matchtime": 174.33599999998006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:23.435421Z", "matchtime": 189.4399999999851, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:23.444172Z", "matchtime": 189.4399999999851, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:23.449886Z", "matchtime": 189.4399999999851, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:31.606652Z", "matchtime": 204.54399999999015, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:31.613282Z", "matchtime": 204.54399999999015, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:31.619938Z", "matchtime": 204.54399999999015, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:39.725037Z", "matchtime": 219.6479999999952, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:39.731810Z", "matchtime": 219.6479999999952, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:39.738311Z", "matchtime": 219.6479999999952, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:47.903660Z", "matchtime": 234.75200000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:47.911381Z", "matchtime": 234.75200000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:47.917081Z", "matchtime": 234.75200000000024, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:29:56.066302Z", "matchtime": 249.85600000000528, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:29:56.074749Z", "matchtime": 249.85600000000528, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:29:56.082055Z", "matchtime": 249.85600000000528, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:04.225765Z", "matchtime": 264.9600000000103, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:04.232184Z", "matchtime": 264.9600000000103, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:04.238673Z", "matchtime": 264.9600000000103, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:12.412926Z", "matchtime": 280.06400000001537, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:12.419897Z", "matchtime": 280.06400000001537, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:12.425867Z", "matchtime": 280.06400000001537, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:14.391211Z", "matchtime": 283.64800000001657, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 12, "score_blue": 0}}
+{"datetime": "2021-06-18T08:30:16.065467Z", "matchtime": 286.65600000001757, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:30:23.430042Z", "matchtime": 300.2240000000221, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 13, "score_blue": 0}}
+{"datetime": "2021-06-18T08:30:25.112157Z", "matchtime": 303.2320000000231, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:30:33.288982Z", "matchtime": 318.33600000002815, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:33.295777Z", "matchtime": 318.33600000002815, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:33.301512Z", "matchtime": 318.33600000002815, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:41.443870Z", "matchtime": 333.4400000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:41.453759Z", "matchtime": 333.4400000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:41.459454Z", "matchtime": 333.4400000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:49.694012Z", "matchtime": 348.5440000000362, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:49.701677Z", "matchtime": 348.5440000000362, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:49.707442Z", "matchtime": 348.5440000000362, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:30:57.795010Z", "matchtime": 363.64800000003453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:30:57.801347Z", "matchtime": 363.64800000003453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:30:57.807150Z", "matchtime": 363.64800000003453, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:05.962385Z", "matchtime": 378.75200000003287, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:05.968647Z", "matchtime": 378.75200000003287, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:05.975268Z", "matchtime": 378.75200000003287, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:14.128209Z", "matchtime": 393.8560000000312, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:14.133970Z", "matchtime": 393.8560000000312, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:14.140330Z", "matchtime": 393.8560000000312, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:22.438512Z", "matchtime": 408.96000000002954, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:22.446098Z", "matchtime": 408.96000000002954, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:22.454848Z", "matchtime": 408.96000000002954, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:22.565909Z", "matchtime": 409.1520000000295, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T08:31:30.624185Z", "matchtime": 424.0640000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:30.638892Z", "matchtime": 424.0640000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:30.645609Z", "matchtime": 424.0640000000279, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:36.039648Z", "matchtime": 433.98400000002675, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 14, "score_blue": 0}}
+{"datetime": "2021-06-18T08:31:37.729785Z", "matchtime": 436.99200000002645, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:31:45.906996Z", "matchtime": 452.0960000000248, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:45.913631Z", "matchtime": 452.0960000000248, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:45.919228Z", "matchtime": 452.0960000000248, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:54.045693Z", "matchtime": 467.2000000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:31:54.054032Z", "matchtime": 467.2000000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:31:54.059228Z", "matchtime": 467.2000000000231, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:31:59.845678Z", "matchtime": 477.632000000022, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T08:32:02.441451Z", "matchtime": 482.30400000002146, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:32:02.448195Z", "matchtime": 482.30400000002146, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:32:02.455026Z", "matchtime": 482.30400000002146, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:32:04.203021Z", "matchtime": 485.56800000002113, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 15, "score_blue": 0}}
+{"datetime": "2021-06-18T08:32:05.873923Z", "matchtime": 488.57600000002077, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:32:13.977242Z", "matchtime": 503.6800000000191, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:32:13.989664Z", "matchtime": 503.6800000000191, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:32:13.996127Z", "matchtime": 503.6800000000191, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:32:18.005987Z", "matchtime": 511.1680000000183, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 16, "score_blue": 0}}
+{"datetime": "2021-06-18T08:32:19.676859Z", "matchtime": 514.1760000000179, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:32:26.858502Z", "matchtime": 527.4240000000165, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 17, "score_blue": 0}}
+{"datetime": "2021-06-18T08:32:28.545351Z", "matchtime": 530.4320000000162, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:32:34.325465Z", "matchtime": 540.9280000000156, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 18, "score_blue": 0}}
+{"datetime": "2021-06-18T08:32:36.001405Z", "matchtime": 543.9360000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:32:41.188231Z", "matchtime": 553.4720000000156, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 19, "score_blue": 0}}
+{"datetime": "2021-06-18T08:32:42.874574Z", "matchtime": 556.4800000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:32:51.032233Z", "matchtime": 571.5840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:32:51.039992Z", "matchtime": 571.5840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:32:51.048675Z", "matchtime": 571.5840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:32:57.044942Z", "matchtime": 582.4640000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T08:32:59.313429Z", "matchtime": 586.6880000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T08:32:59.320565Z", "matchtime": 586.6880000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T08:32:59.326257Z", "matchtime": 586.6880000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T08:33:04.262452Z", "matchtime": 595.8400000000156, "event": "GOAL", "payload": {"team_name": "Griffins", "score_yellow": 20, "score_blue": 0}}
+{"datetime": "2021-06-18T08:33:05.938536Z", "matchtime": 598.8480000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T08:33:06.559358Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 20, "score_blue": 0, "team_name_yellow": "Griffins", "team_name_blue": "Pooyesh"}}

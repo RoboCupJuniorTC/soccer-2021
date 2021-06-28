@@ -1,0 +1,48 @@
+{"datetime": "2021-06-24T16:32:52.684671Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T16:32:52.690962Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 1, "score_blue": 6, "total_match_time": 600, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "Team Alpha", "match_id": "sim2b_6_2nd_fin", "halftime": 2}}
+{"datetime": "2021-06-24T16:33:02.630850Z", "matchtime": 33.21599999998159, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:33:04.776422Z", "matchtime": 37.951999999978966, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:33:12.837712Z", "matchtime": 59.263999999967155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:33:21.077978Z", "matchtime": 71.74399999996024, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:33:22.743601Z", "matchtime": 75.19999999995832, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:33:23.466938Z", "matchtime": 76.6719999999575, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:33:33.626765Z", "matchtime": 95.55199999995375, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:33:37.554900Z", "matchtime": 102.39999999995604, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:33:41.184118Z", "matchtime": 108.8639999999582, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 7}}
+{"datetime": "2021-06-24T16:33:43.492832Z", "matchtime": 111.8719999999592, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T16:34:04.048354Z", "matchtime": 140.67199999996882, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:34:05.964854Z", "matchtime": 143.6159999999698, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:34:06.068085Z", "matchtime": 143.74399999996984, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:34:10.547212Z", "matchtime": 150.7839999999722, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:34:23.963919Z", "matchtime": 173.05599999997963, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:34:24.395290Z", "matchtime": 173.8879999999799, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:34:33.097874Z", "matchtime": 189.4399999999851, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:34:39.932459Z", "matchtime": 201.59999999998917, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:34:55.217239Z", "matchtime": 228.28799999999808, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 8}}
+{"datetime": "2021-06-24T16:34:56.941089Z", "matchtime": 231.29599999999908, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T16:35:19.818850Z", "matchtime": 269.50400000001184, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:35:21.306949Z", "matchtime": 271.7440000000126, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:35:36.430273Z", "matchtime": 297.7920000000213, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:35:40.410434Z", "matchtime": 303.42400000002317, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:35:57.332366Z", "matchtime": 333.5040000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:35:57.339746Z", "matchtime": 333.56800000003324, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:36:09.322173Z", "matchtime": 355.13600000003544, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:36:20.921983Z", "matchtime": 374.40000000003334, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:36:21.753934Z", "matchtime": 375.5520000000332, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:36:32.799644Z", "matchtime": 394.9440000000311, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:36:45.416623Z", "matchtime": 416.5120000000287, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:36:54.048520Z", "matchtime": 431.74400000002703, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 9}}
+{"datetime": "2021-06-24T16:36:55.976248Z", "matchtime": 434.75200000002667, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T16:37:06.775513Z", "matchtime": 450.68800000002494, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 10}}
+{"datetime": "2021-06-24T16:37:10.409868Z", "matchtime": 453.6960000000246, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T16:37:27.220927Z", "matchtime": 478.91200000002186, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:37:28.698270Z", "matchtime": 481.53600000002155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:37:29.655080Z", "matchtime": 483.20000000002136, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:37:38.960292Z", "matchtime": 496.3840000000199, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:37:40.972833Z", "matchtime": 499.90400000001955, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T16:37:45.766315Z", "matchtime": 508.54400000001857, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:38:01.654589Z", "matchtime": 536.6400000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:38:12.474082Z", "matchtime": 555.1360000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T16:38:27.608724Z", "matchtime": 581.3120000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T16:38:36.988831Z", "matchtime": 597.9520000000156, "event": "GOAL", "payload": {"team_name": "Team Alpha", "score_yellow": 1, "score_blue": 11}}
+{"datetime": "2021-06-24T16:38:38.674061Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 11, "team_name_yellow": "Williamstown High School's Finest", "team_name_blue": "Team Alpha"}}

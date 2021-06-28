@@ -1,0 +1,40 @@
+{"datetime": "2021-06-18T21:24:29.426296Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:24:29.532295Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 3, "score_blue": 1, "total_match_time": 600, "team_name_yellow": "Radiant", "team_name_blue": "Helix", "match_id": "sim21_2_g3_r1_1", "halftime": 2}}
+{"datetime": "2021-06-18T21:24:34.927920Z", "matchtime": 13.631999999992445, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:24:36.549686Z", "matchtime": 16.895999999990636, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T21:24:54.699609Z", "matchtime": 61.75999999996577, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:24:56.119706Z", "matchtime": 65.15199999996389, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 4, "score_blue": 1}}
+{"datetime": "2021-06-18T21:24:57.475457Z", "matchtime": 68.15999999996222, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:25:00.362476Z", "matchtime": 73.66399999995917, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 5, "score_blue": 1}}
+{"datetime": "2021-06-18T21:25:02.046551Z", "matchtime": 76.6719999999575, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:25:15.525093Z", "matchtime": 101.56799999995576, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:25:22.895538Z", "matchtime": 114.49599999996008, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 6, "score_blue": 1}}
+{"datetime": "2021-06-18T21:25:24.700364Z", "matchtime": 117.50399999996108, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:25:47.664806Z", "matchtime": 158.71999999997485, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:26:12.897274Z", "matchtime": 200.12799999998867, "event": "GOAL", "payload": {"team_name": "Helix", "score_yellow": 6, "score_blue": 2}}
+{"datetime": "2021-06-18T21:26:14.603928Z", "matchtime": 203.13599999998968, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T21:26:24.612277Z", "matchtime": 220.2879999999954, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T21:26:25.560913Z", "matchtime": 221.82399999999592, "event": "GOAL", "payload": {"team_name": "Helix", "score_yellow": 6, "score_blue": 3}}
+{"datetime": "2021-06-18T21:26:27.365309Z", "matchtime": 224.83199999999692, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T21:26:37.025566Z", "matchtime": 241.5360000000025, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:26:41.119348Z", "matchtime": 247.87200000000462, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:27:16.645920Z", "matchtime": 311.16800000002576, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T21:27:32.276414Z", "matchtime": 336.7040000000343, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T21:27:40.268323Z", "matchtime": 350.9760000000359, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:27:43.332704Z", "matchtime": 356.4160000000353, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T21:27:50.700052Z", "matchtime": 369.4080000000339, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:27:50.805180Z", "matchtime": 369.5360000000339, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:27:58.296123Z", "matchtime": 382.9760000000324, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T21:28:17.057033Z", "matchtime": 414.01600000002895, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:28:27.160005Z", "matchtime": 428.92800000002734, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:28:27.361259Z", "matchtime": 429.1200000000273, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:28:33.042541Z", "matchtime": 439.0400000000262, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:28:34.511993Z", "matchtime": 441.280000000026, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:28:36.296899Z", "matchtime": 444.2240000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-18T21:28:43.971492Z", "matchtime": 455.8720000000244, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:28:52.068418Z", "matchtime": 470.40000000002277, "event": "GOAL", "payload": {"team_name": "Radiant", "score_yellow": 7, "score_blue": 3}}
+{"datetime": "2021-06-18T21:28:53.775580Z", "matchtime": 473.4080000000224, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T21:29:03.917283Z", "matchtime": 491.9680000000204, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:29:46.136725Z", "matchtime": 566.6560000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-18T21:29:47.579290Z", "matchtime": 568.3840000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T21:30:05.478600Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 7, "score_blue": 3, "team_name_yellow": "Radiant", "team_name_blue": "Helix"}}

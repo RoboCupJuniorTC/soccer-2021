@@ -1,0 +1,30 @@
+{"datetime": "2021-06-24T14:57:09.398015Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-24T14:57:09.404967Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "GJH_team", "team_name_blue": "Apex", "match_id": "sim2b_4_qf3", "halftime": 1}}
+{"datetime": "2021-06-24T14:57:13.703375Z", "matchtime": 13.183999999992693, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:57:21.459628Z", "matchtime": 33.983999999981165, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:57:26.876445Z", "matchtime": 48.06399999997336, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:57:44.295074Z", "matchtime": 90.04799999995191, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:57:57.567855Z", "matchtime": 119.74399999996183, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:58:11.343420Z", "matchtime": 147.07199999997096, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-24T14:58:13.934997Z", "matchtime": 151.4239999999724, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:58:37.236252Z", "matchtime": 193.3439999999864, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:58:47.422649Z", "matchtime": 211.5839999999925, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:59:06.085245Z", "matchtime": 244.35200000000344, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:59:06.515066Z", "matchtime": 245.24800000000374, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-24T14:59:21.943296Z", "matchtime": 270.8480000000123, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2021-06-24T14:59:23.632703Z", "matchtime": 273.8560000000133, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-24T14:59:32.918564Z", "matchtime": 288.96000000001834, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T14:59:48.865291Z", "matchtime": 315.7760000000273, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:00:00.589743Z", "matchtime": 334.9120000000337, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:00:15.375756Z", "matchtime": 361.9840000000347, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-24T15:00:19.982592Z", "matchtime": 370.11200000003385, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-24T15:00:34.245731Z", "matchtime": 395.2000000000311, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:00:55.563962Z", "matchtime": 429.1200000000273, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:01:03.657140Z", "matchtime": 442.8800000000258, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:01:12.802864Z", "matchtime": 458.88000000002404, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:01:23.310415Z", "matchtime": 477.69600000002197, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:01:38.286154Z", "matchtime": 504.32000000001904, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:01:57.710497Z", "matchtime": 538.6240000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:02:09.795161Z", "matchtime": 559.8720000000155, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:02:20.061908Z", "matchtime": 576.7680000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-24T15:02:33.340431Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 1, "team_name_yellow": "GJH_team", "team_name_blue": "Apex"}}

@@ -1,0 +1,39 @@
+{"datetime": "2021-06-18T23:12:26.309599Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-18T23:12:26.322002Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "KingKong", "team_name_blue": "Radiant", "match_id": "sim21_2_g3_r5_2", "halftime": 1}}
+{"datetime": "2021-06-18T23:12:36.252931Z", "matchtime": 32.127999999982194, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-18T23:12:37.302902Z", "matchtime": 35.13599999998053, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:12:41.261370Z", "matchtime": 45.95199999997453, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-18T23:12:42.503546Z", "matchtime": 48.959999999972865, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:12:43.557881Z", "matchtime": 51.199999999971624, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:12:50.173287Z", "matchtime": 65.91999999996347, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:12:55.202196Z", "matchtime": 75.0719999999584, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 3, "score_blue": 0}}
+{"datetime": "2021-06-18T23:12:56.891661Z", "matchtime": 78.07999999995673, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:12:58.055820Z", "matchtime": 80.12799999995559, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:13:22.151229Z", "matchtime": 121.85599999996253, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2021-06-18T23:13:29.900630Z", "matchtime": 135.93599999996724, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T23:13:48.171898Z", "matchtime": 165.5039999999771, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:13:49.330298Z", "matchtime": 167.5519999999778, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:13:58.999376Z", "matchtime": 184.19199999998335, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:14:18.268054Z", "matchtime": 216.7039999999942, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:14:23.197852Z", "matchtime": 225.087999999997, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 4, "score_blue": 0}}
+{"datetime": "2021-06-18T23:14:25.104160Z", "matchtime": 228.095999999998, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:14:45.108291Z", "matchtime": 262.7200000000096, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:15:02.536254Z", "matchtime": 290.75200000001894, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:15:22.839622Z", "matchtime": 323.2640000000298, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:15:42.702759Z", "matchtime": 355.3920000000354, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:15:43.432417Z", "matchtime": 356.54400000003534, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:16:20.743462Z", "matchtime": 420.1600000000283, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:16:27.762420Z", "matchtime": 432.38400000002696, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:16:49.988338Z", "matchtime": 472.32000000002256, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:16:59.084274Z", "matchtime": 487.5520000000209, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 5, "score_blue": 0}}
+{"datetime": "2021-06-18T23:17:01.087473Z", "matchtime": 490.5600000000205, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:17:02.351395Z", "matchtime": 492.8000000000203, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:17:10.005255Z", "matchtime": 506.68800000001875, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-18T23:17:12.208105Z", "matchtime": 510.59200000001834, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-18T23:17:15.873826Z", "matchtime": 516.8640000000177, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:17:24.985664Z", "matchtime": 533.3760000000159, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:17:41.393932Z", "matchtime": 559.8080000000156, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-18T23:17:47.350448Z", "matchtime": 570.0480000000156, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-18T23:17:48.726265Z", "matchtime": 572.4160000000156, "event": "GOAL", "payload": {"team_name": "KingKong", "score_yellow": 6, "score_blue": 0}}
+{"datetime": "2021-06-18T23:17:50.542293Z", "matchtime": 575.4240000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-18T23:18:04.565697Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 6, "score_blue": 0, "team_name_yellow": "KingKong", "team_name_blue": "Radiant"}}

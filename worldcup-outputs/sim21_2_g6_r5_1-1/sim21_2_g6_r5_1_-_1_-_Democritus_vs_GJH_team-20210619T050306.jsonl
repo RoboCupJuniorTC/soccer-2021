@@ -1,0 +1,39 @@
+{"datetime": "2021-06-19T05:03:08.273254Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2021-06-19T05:03:08.285737Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "GJH_team", "team_name_blue": "Democritus", "match_id": "sim21_2_g6_r5_1", "halftime": 1}}
+{"datetime": "2021-06-19T05:03:23.484645Z", "matchtime": 52.351999999970985, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 1, "score_blue": 0}}
+{"datetime": "2021-06-19T05:03:24.618308Z", "matchtime": 55.35999999996932, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:03:29.503840Z", "matchtime": 68.15999999996222, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:03:38.993320Z", "matchtime": 91.07199999995225, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T05:03:54.126969Z", "matchtime": 121.21599999996232, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 2, "score_blue": 0}}
+{"datetime": "2021-06-19T05:03:55.799229Z", "matchtime": 124.22399999996333, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:04:06.442463Z", "matchtime": 143.8719999999699, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:04:08.220845Z", "matchtime": 147.07199999997096, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 3, "score_blue": 0}}
+{"datetime": "2021-06-19T05:04:10.228379Z", "matchtime": 150.07999999997196, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:04:24.652178Z", "matchtime": 175.16799999998034, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T05:04:25.610043Z", "matchtime": 176.89599999998092, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:04:49.194053Z", "matchtime": 217.91999999999462, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2021-06-19T05:04:52.341344Z", "matchtime": 223.03999999999633, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:05:06.249624Z", "matchtime": 246.20800000000406, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2021-06-19T05:05:07.088277Z", "matchtime": 247.5520000000045, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T05:05:07.627846Z", "matchtime": 248.51200000000483, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2021-06-19T05:05:23.162194Z", "matchtime": 272.0000000000127, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:05:32.891726Z", "matchtime": 287.74400000001793, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:06:06.799058Z", "matchtime": 348.03200000003625, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:06:23.268039Z", "matchtime": 376.96000000003306, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:06:24.223372Z", "matchtime": 378.75200000003287, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2021-06-19T05:06:55.222459Z", "matchtime": 431.5520000000271, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:07:14.116171Z", "matchtime": 464.8320000000234, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:07:17.038384Z", "matchtime": 469.95200000002285, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2021-06-19T05:07:24.217595Z", "matchtime": 479.61600000002176, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:07:37.399276Z", "matchtime": 503.16800000001916, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2021-06-19T05:07:39.172562Z", "matchtime": 506.3680000000188, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 4, "score_blue": 0}}
+{"datetime": "2021-06-19T05:07:41.178176Z", "matchtime": 509.3760000000185, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:07:46.216108Z", "matchtime": 518.5280000000175, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 5, "score_blue": 0}}
+{"datetime": "2021-06-19T05:07:48.212207Z", "matchtime": 521.5360000000171, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:07:53.549737Z", "matchtime": 531.264000000016, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 6, "score_blue": 0}}
+{"datetime": "2021-06-19T05:07:55.450216Z", "matchtime": 534.2720000000157, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:08:07.804326Z", "matchtime": 556.7360000000156, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 7, "score_blue": 0}}
+{"datetime": "2021-06-19T05:08:09.616135Z", "matchtime": 559.7440000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:08:23.865478Z", "matchtime": 585.3440000000156, "event": "GOAL", "payload": {"team_name": "GJH_team", "score_yellow": 8, "score_blue": 0}}
+{"datetime": "2021-06-19T05:08:25.682069Z", "matchtime": 588.3520000000156, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2021-06-19T05:08:32.281519Z", "matchtime": 600.0000000000156, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 8, "score_blue": 0, "team_name_yellow": "GJH_team", "team_name_blue": "Democritus"}}
